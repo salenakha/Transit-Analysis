@@ -1,0 +1,1855 @@
+city,route_name,route_type,route_id_numeric,route_sort_order,total_routes,route_type_diversity,transit_richness_score,transit_category
+Boston,Alewife Shuttle Route A,3,145185,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife Shuttle Route B,3,145186,2.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife Shuttle Route C,3,145187,3.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife Shuttle Route D,3,145188,4.0,390,5,44.205819557360144,Transit-Limited
+Boston,Hartwell Area Shuttle (AM),3,145189,5.0,390,5,44.205819557360144,Transit-Limited
+Boston,Hartwell Area Shuttle (PM),3,145190,6.0,390,5,44.205819557360144,Transit-Limited
+Boston,Commuter,3,15660215,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON LOGAN AIRPORT - NEWARK,3,51181250,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,NEWARK - BOSTON LOGAN AIRPORT,3,51181251,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON SOUTH STATION - NEWARK,3,51181262,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,PNEWARK - BOSTON SOUTH STATION,3,51181263,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,AMHERST - NORTHAMPTON - BOSTON College Express,3,51181266,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON - WORCESTER - HARTFORD - WATERBURY - NEW YORK Express Service,3,51181267,10.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON - WORCESTER - SPRINGFIELD - NORTHAMPTON - AMHERST,3,51181268,12.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON LOGAN AIRPORT - BOSTON - FALMOUTH - WOODS HOLE,3,51181269,13.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON LOGAN AIRPORT - BOSTON - HYANNIS,3,51181270,14.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON LOGAN AIRPORT - BOSTON - PROVIDENCE,3,51181271,15.0,390,5,44.205819557360144,Transit-Limited
+Boston,HYANNIS - BOSTON - BOSTON LOGAN AIRPORT,3,51181273,19.0,390,5,44.205819557360144,Transit-Limited
+Boston,NEW YORK - BOSTON Express Service,3,51181276,21.0,390,5,44.205819557360144,Transit-Limited
+Boston,NEW YORK - WATERBURY - HARTFORD - WORCESTER - BOSTON Express Service,3,51181283,29.0,390,5,44.205819557360144,Transit-Limited
+Boston,PROVIDENCE - BOSTON - BOSTON LOGAN AIRPORT,3,51181287,34.0,390,5,44.205819557360144,Transit-Limited
+Boston,AMHERST - NORTHAMPTON - SPRINGFIELD - WORCESTER - BOSTON,3,51181292,4.0,390,5,44.205819557360144,Transit-Limited
+Boston,WOODS HOLE - FALMOUTH - BOSTON - BOSTON LOGAN AIRPORT,3,51181296,43.0,390,5,44.205819557360144,Transit-Limited
+Boston,BOSTON - NEW YORK Express Service,3,51181297,8.0,390,5,44.205819557360144,Transit-Limited
+Boston,Spectacle Island,4,56227289,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Express 93 North,3,67361058,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Express 93 South,3,67361059,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Express 93 South 401,3,67361060,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Express 3 North,3,67361061,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Express 3 South,3,67361062,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Thompson Island,4,71559714,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Portland, ME to/from Boston & Logan Airport",3,83360608,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Southern NH to/from Boston & Logan Airport,3,83360611,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Berlin, Littleton, North Conway to/from Boston & Logan Airport via Concord, NH",3,83360612,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mansfield to Logan Airport,3,83793636,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,Middlesex 3 TMA Shuttle,3,84345165,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,Hyannis - South Shore to Logan Airport,3,85980039,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,Woods Hole to Boston/Logan Airport,3,85980040,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,Acton/Concord Commuter,3,90895240,2.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont,3,92080140,10.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Albany,3,103936420,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,NYC Queens - Boston,3,103936423,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Philadelphia - Washington,3,103936426,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - NYC - Philadelphia,3,103936432,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Albany - Ithaca,3,103936444,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - NYC - Richmond,3,103936449,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Burlington - Montréal,3,103936471,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newark - Boston,3,103936476,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,NYC - Boston,3,103936491,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - New York (Express Service),3,103936518,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Albany - Syracuse,3,103936519,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Philadelphia: Bus Moves,3,103936528,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Burlington: Bus Move,3,103936556,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,NYC - Boston,3,103936561,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Portland - Bangor,3,103936562,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,New York - Hartford - Boston,3,103936573,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Albany - Syracuse: Bus Moves,3,103936584,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - Fitchburg - New York,3,103936588,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston - New York (Weekend Service),3,103936603,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Bus Moves: Boston - Fitchburg - New York,3,103936608,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,NYC Chinatown - Boston,3,103936659,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fast Ferry,4,104540021,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597049,0.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597050,1.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597051,10.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597052,11.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597053,12.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597054,13.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597055,14.0,390,5,44.205819557360144,Transit-Limited
+Boston,Back Bay,3,104597056,16.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree,3,104597057,17.0,390,5,44.205819557360144,Transit-Limited
+Boston,Framingham,3,104597058,18.0,390,5,44.205819557360144,Transit-Limited
+Boston,Woburn,3,104597059,19.0,390,5,44.205819557360144,Transit-Limited
+Boston,221,3,104597060,2.0,390,5,44.205819557360144,Transit-Limited
+Boston,Danvers,3,104597061,20.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597062,3.0,390,5,44.205819557360144,Transit-Limited
+Boston,331,3,104597063,4.0,390,5,44.205819557360144,Transit-Limited
+Boston,LOC1,3,104597064,5.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597065,6.0,390,5,44.205819557360144,Transit-Limited
+Boston,Unknown,3,104597066,7.0,390,5,44.205819557360144,Transit-Limited
+Boston,551,3,104597067,8.0,390,5,44.205819557360144,Transit-Limited
+Boston,552,3,104597068,9.0,390,5,44.205819557360144,Transit-Limited
+Boston,Georges Island,4,104604749,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Spectacle Island,4,104604750,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Red Line,1,104977904,10010.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan Trolley,0,104977905,10011.0,390,5,44.205819557360144,Transit-Limited
+Boston,Orange Line,1,104977906,10020.0,390,5,44.205819557360144,Transit-Limited
+Boston,Green Line B,0,104977907,10032.0,390,5,44.205819557360144,Transit-Limited
+Boston,Green Line C,0,104977908,10033.0,390,5,44.205819557360144,Transit-Limited
+Boston,Green Line D,0,104977909,10034.0,390,5,44.205819557360144,Transit-Limited
+Boston,Green Line E,0,104977910,10035.0,390,5,44.205819557360144,Transit-Limited
+Boston,Blue Line,1,104977911,10040.0,390,5,44.205819557360144,Transit-Limited
+Boston,Logan Airport Terminals - South Station,3,104977912,10051.0,390,5,44.205819557360144,Transit-Limited
+Boston,Design Center - South Station,3,104977913,10052.0,390,5,44.205819557360144,Transit-Limited
+Boston,Chelsea Station - South Station,3,104977914,10053.0,390,5,44.205819557360144,Transit-Limited
+Boston,Nubian Station - South Station,3,104977915,10055.0,390,5,44.205819557360144,Transit-Limited
+Boston,Nubian Station - Temple Place,3,104977916,10056.0,390,5,44.205819557360144,Transit-Limited
+Boston,Silver Line Way - South Station,3,104977917,10057.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fairmount Line,2,104977918,20001.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fall River/New Bedford Line,2,104977919,20002.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fitchburg Line,2,104977920,20003.0,390,5,44.205819557360144,Transit-Limited
+Boston,Framingham/Worcester Line,2,104977921,20004.0,390,5,44.205819557360144,Transit-Limited
+Boston,Franklin/Foxboro Line,2,104977922,20005.0,390,5,44.205819557360144,Transit-Limited
+Boston,Greenbush Line,2,104977923,20006.0,390,5,44.205819557360144,Transit-Limited
+Boston,Haverhill Line,2,104977924,20007.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kingston Line,2,104977925,20008.0,390,5,44.205819557360144,Transit-Limited
+Boston,Lowell Line,2,104977926,20009.0,390,5,44.205819557360144,Transit-Limited
+Boston,Needham Line,2,104977927,20011.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newburyport/Rockport Line,2,104977928,20012.0,390,5,44.205819557360144,Transit-Limited
+Boston,Providence/Stoughton Line,2,104977929,20013.0,390,5,44.205819557360144,Transit-Limited
+Boston,Foxboro Event Service,2,104977930,20014.0,390,5,44.205819557360144,Transit-Limited
+Boston,CapeFLYER,2,104977931,21000.0,390,5,44.205819557360144,Transit-Limited
+Boston,Charlestown Ferry,4,104977932,30001.0,390,5,44.205819557360144,Transit-Limited
+Boston,Hingham/Hull Ferry,4,104977933,30002.0,390,5,44.205819557360144,Transit-Limited
+Boston,East Boston Ferry,4,104977934,30005.0,390,5,44.205819557360144,Transit-Limited
+Boston,Lynn Ferry,4,104977935,30007.0,390,5,44.205819557360144,Transit-Limited
+Boston,Winthrop Ferry,4,104977936,30008.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Ferry,4,104977937,30009.0,390,5,44.205819557360144,Transit-Limited
+Boston,Sullivan Square Station - Ruggles Station,3,104977939,40020.0,390,5,44.205819557360144,Transit-Limited
+Boston,Beth Israel Deaconess Hospital - Andrew Station,3,104977940,40030.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard Square - Nubian Station,3,104977941,50010.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Design Center,3,104977942,50040.0,390,5,44.205819557360144,Transit-Limited
+Boston,City Point - Otis Street & Summer Street,3,104977943,50070.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harbor Point - Kenmore Station,3,104977944,50080.0,390,5,44.205819557360144,Transit-Limited
+Boston,City Point - Copley Square,3,104977945,50090.0,390,5,44.205819557360144,Transit-Limited
+Boston,City Point - Arlington Station,3,104977946,50100.0,390,5,44.205819557360144,Transit-Limited
+Boston,City Point - Chauncy Street & Summer Street,3,104977947,50110.0,390,5,44.205819557360144,Transit-Limited
+Boston,Roslindale Square - Heath Street,3,104977948,50140.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fields Corner Station - Ruggles Station,3,104977949,50150.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills Station - Andrew Station or Harbor Point,3,104977950,50160.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fields Corner Station - Andrew Station,3,104977951,50170.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont Station - Andrew Station,3,104977952,50180.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fields Corner Station - Kenmore or Ruggles Station,3,104977953,50190.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont Station - Forest Hills Station,3,104977954,50210.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont Station - Ruggles Station via Talbot Ave,3,104977955,50220.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont Station - Ruggles Station via Washington Street,3,104977956,50230.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wakefield Avenue & Truman Parkway - Ashmont Station,3,104977957,50240.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont Station - Norfolk Street Loop,3,104977958,50260.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan Station - Ruggles Station,3,104977959,50280.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan Station - Jackson Square Station,3,104977960,50290.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan Station - Forest Hills Station via Cummins Highway and Roslindale Square,3,104977961,50300.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan Station - Forest Hills Station via Morton Street,3,104977962,50310.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wolcott or Cleary Square - Forest Hills Station,3,104977963,50320.0,390,5,44.205819557360144,Transit-Limited
+Boston,River Street & Milton Street - Mattapan Station,3,104977964,50330.0,390,5,44.205819557360144,Transit-Limited
+Boston,Dedham Square - Forest Hills Station,3,104977965,50340.0,390,5,44.205819557360144,Transit-Limited
+Boston,Walpole Center - Forest Hills Station,3,104977966,50341.0,390,5,44.205819557360144,Transit-Limited
+Boston,Dedham Mall or Stimson Street - Forest Hills Station,3,104977967,50350.0,390,5,44.205819557360144,Transit-Limited
+Boston,Millennium Park or VA Hospital - Forest Hills Station,3,104977968,50360.0,390,5,44.205819557360144,Transit-Limited
+Boston,Baker Street & Vermont Street - Forest Hills Station,3,104977969,50370.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wren Street - Forest Hills Station,3,104977970,50380.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills Station - Back Bay Station,3,104977971,50390.0,390,5,44.205819557360144,Transit-Limited
+Boston,Georgetowne - Forest Hills Station,3,104977972,50400.0,390,5,44.205819557360144,Transit-Limited
+Boston,Georgetowne - Forest Hills Station,3,104977973,50401.0,390,5,44.205819557360144,Transit-Limited
+Boston,Centre Street & Eliot Street - JFK/UMass Station,3,104977974,50410.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills Station - Nubian Station,3,104977975,50420.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ruggles Station - Park Street Station,3,104977976,50430.0,390,5,44.205819557360144,Transit-Limited
+Boston,Jackson Square Station - Ruggles Station,3,104977977,50440.0,390,5,44.205819557360144,Transit-Limited
+Boston,Franklin Park - Ruggles Station,3,104977978,50450.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Central Square, Cambridge - Broadway Station",3,104977979,50470.0,390,5,44.205819557360144,Transit-Limited
+Boston,Cleary Square - Forest Hills Station,3,104977980,50500.0,390,5,44.205819557360144,Transit-Limited
+Boston,Reservoir Station - Forest Hills Station,3,104977981,50510.0,390,5,44.205819557360144,Transit-Limited
+Boston,Dedham Mall - Watertown Yard,3,104977982,50520.0,390,5,44.205819557360144,Transit-Limited
+Boston,West Fenway - Arlington Station,3,104977983,50550.0,390,5,44.205819557360144,Transit-Limited
+Boston,Watertown Yard - Kenmore Station,3,104977984,50570.0,390,5,44.205819557360144,Transit-Limited
+Boston,Needham Junction - Watertown Square,3,104977985,50590.0,390,5,44.205819557360144,Transit-Limited
+Boston,Chestnut Hill - Kenmore Station,3,104977986,50600.0,390,5,44.205819557360144,Transit-Limited
+Boston,Bedford VA Hospital - Alewife Station,3,104977988,50620.0,390,5,44.205819557360144,Transit-Limited
+Boston,Oak Square - University Park or Kendall/MIT Station,3,104977989,50640.0,390,5,44.205819557360144,Transit-Limited
+Boston,Brighton Center - Kenmore Station,3,104977990,50650.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard Square - Nubian Station,3,104977991,50660.0,390,5,44.205819557360144,Transit-Limited
+Boston,Turkey Hill - Alewife Station,3,104977992,50670.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard Square - Kendall/MIT Station,3,104977993,50680.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard Square - Lechmere Station,3,104977994,50690.0,390,5,44.205819557360144,Transit-Limited
+Boston,Market Place Drive or Waltham Center - University Park,3,104977995,50700.0,390,5,44.205819557360144,Transit-Limited
+Boston,Watertown Square - Harvard Station,3,104977996,50710.0,390,5,44.205819557360144,Transit-Limited
+Boston,Waverley Square - Harvard Station,3,104977997,50730.0,390,5,44.205819557360144,Transit-Limited
+Boston,Belmont Center - Harvard via Concord Avenue,3,104977998,50740.0,390,5,44.205819557360144,Transit-Limited
+Boston,Belmont Center - Harvard via Huron Avenue,3,104977999,50750.0,390,5,44.205819557360144,Transit-Limited
+Boston,Lincoln Lab - Alewife Station,3,104978000,50760.0,390,5,44.205819557360144,Transit-Limited
+Boston,Arlington Heights - Harvard Station,3,104978001,50770.0,390,5,44.205819557360144,Transit-Limited
+Boston,Arlmont Village - Harvard Station,3,104978002,50780.0,390,5,44.205819557360144,Transit-Limited
+Boston,Arlington Center - Lechmere Station,3,104978003,50800.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Rindge Avenue - Central Square, Cambridge",3,104978004,50830.0,390,5,44.205819557360144,Transit-Limited
+Boston,Spring Hill - Kendall/MIT Station,3,104978005,50850.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard Square - Reservoir Station,3,104978006,50860.0,390,5,44.205819557360144,Transit-Limited
+Boston,Clarendon Hill or Arlington Center - Lechmere Station,3,104978007,50870.0,390,5,44.205819557360144,Transit-Limited
+Boston,Clarendon Hill - Lechmere Station,3,104978008,50880.0,390,5,44.205819557360144,Transit-Limited
+Boston,Clarendon Hill or Davis Station - Sullivan Square Station,3,104978009,50890.0,390,5,44.205819557360144,Transit-Limited
+Boston,Clarendon Hill - Haymarket Station,3,104978010,50891.0,390,5,44.205819557360144,Transit-Limited
+Boston,Davis Station - Assembly Row,3,104978011,50900.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Sullivan Square Station - Central Square, Cambridge",3,104978012,50910.0,390,5,44.205819557360144,Transit-Limited
+Boston,Sullivan Square Station - Downtown via Main Street,3,104978013,50920.0,390,5,44.205819557360144,Transit-Limited
+Boston,Sullivan Square Station - Downtown via Bunker Hill Street,3,104978014,50930.0,390,5,44.205819557360144,Transit-Limited
+Boston,Medford Square - Davis Station,3,104978015,50940.0,390,5,44.205819557360144,Transit-Limited
+Boston,West Medford or Arlington Center - Sullivan Square Station,3,104978016,50950.0,390,5,44.205819557360144,Transit-Limited
+Boston,Medford Square - Harvard Station,3,104978017,50960.0,390,5,44.205819557360144,Transit-Limited
+Boston,Malden Center Station - Wellington Station,3,104978018,50970.0,390,5,44.205819557360144,Transit-Limited
+Boston,Woodland Road - Wellington Station,3,104978019,50990.0,390,5,44.205819557360144,Transit-Limited
+Boston,Malden Center Station - Sullivan Square Station via Winter Hill,3,104978021,51010.0,390,5,44.205819557360144,Transit-Limited
+Boston,Malden Center Station - Airport Station,3,104978022,51040.0,390,5,44.205819557360144,Transit-Limited
+Boston,Malden Center Station - Sullivan Square Station via Newland Street Housing,3,104978023,51050.0,390,5,44.205819557360144,Transit-Limited
+Boston,Linden Square - Harvard Square via Sullivan,3,104978026,51090.0,390,5,44.205819557360144,Transit-Limited
+Boston,Woodlawn - Haymarket Station,3,104978028,51110.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wellington Station - Wood Island Station,3,104978029,51120.0,390,5,44.205819557360144,Transit-Limited
+Boston,Market Basket - Maverick Station,3,104978030,51140.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wonderland Station - Maverick Station,3,104978031,51160.0,390,5,44.205819557360144,Transit-Limited
+Boston,Northgate Shopping Center - Beachmont Station,3,104978032,51190.0,390,5,44.205819557360144,Transit-Limited
+Boston,Orient Heights Station - Jeffries Point,3,104978033,51200.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wood Island Station - Maverick Station,3,104978034,51210.0,390,5,44.205819557360144,Transit-Limited
+Boston,Logan Airport Terminals - Nubian Station,3,104978039,51710.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fields Corner Loop via Neponset Ave,3,104978041,52010.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fields Corner Loop via Adams Street,3,104978042,52020.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center Station - Fields Corner Station,3,104978043,52100.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center Station - Squantum,3,104978044,52110.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center Station - Ashmont Station via West Quincy,3,104978045,52150.0,390,5,44.205819557360144,Transit-Limited
+Boston,Houghs Neck - Quincy Center Station via Germantown,3,104978046,52160.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center Station - Ashmont Station via Wollaston Station,3,104978047,52170.0,390,5,44.205819557360144,Transit-Limited
+Boston,Hingham Depot - Quincy Center Station,3,104978048,52200.0,390,5,44.205819557360144,Transit-Limited
+Boston,East Weymouth - Quincy Center Station,3,104978049,52220.0,390,5,44.205819557360144,Transit-Limited
+Boston,Weymouth Landing - Quincy Center Station,3,104978050,52250.0,390,5,44.205819557360144,Transit-Limited
+Boston,Montello Station - Quincy Center Station,3,104978052,52300.0,390,5,44.205819557360144,Transit-Limited
+Boston,South Shore Plaza - Quincy Center Station,3,104978053,52360.0,390,5,44.205819557360144,Transit-Limited
+Boston,Holbrook/Randolph Station - Quincy Center Station,3,104978054,52380.0,390,5,44.205819557360144,Transit-Limited
+Boston,Avon Square - Ashmont Station,3,104978055,52400.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center Station - Mattapan Station,3,104978056,52450.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Burlington - Alewife Station,3,104978057,53500.0,390,5,44.205819557360144,Transit-Limited
+Boston,"North Burlington - State Street, Boston",3,104978059,53540.0,390,5,44.205819557360144,Transit-Limited
+Boston,"Central Square, Lynn - Haymarket or Wonderland Station",3,104978062,54260.0,390,5,44.205819557360144,Transit-Limited
+Boston,Oaklandvale - Haymarket Station,3,104978063,54280.0,390,5,44.205819557360144,Transit-Limited
+Boston,Salem Depot - Wonderland or Haymarket Station,3,104978072,54500.0,390,5,44.205819557360144,Transit-Limited
+Boston,Brighton Center - Federal Street & Franklin Street,3,104978076,55010.0,390,5,44.205819557360144,Transit-Limited
+Boston,Watertown Yard - Federal Street & Franklin Street,3,104978077,55040.0,390,5,44.205819557360144,Transit-Limited
+Boston,Waltham Center - Federal Street & Franklin Street,3,104978078,55050.0,390,5,44.205819557360144,Transit-Limited
+Boston,Roberts - Newton Corner,3,104978079,55530.0,390,5,44.205819557360144,Transit-Limited
+Boston,Waverley Square - Newton Corner,3,104978080,55540.0,390,5,44.205819557360144,Transit-Limited
+Boston,Waltham Highlands - Newton Corner,3,104978081,55560.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside Station - Newton Corner,3,104978082,55580.0,390,5,44.205819557360144,Transit-Limited
+Boston,Point Shirley - Orient Heights Station via Revere Street,3,104978083,57120.0,390,5,44.205819557360144,Transit-Limited
+Boston,Point Shirley - Orient Heights Station via Winthrop Center,3,104978084,57130.0,390,5,44.205819557360144,Transit-Limited
+Boston,Cobbs Corner - Mattapan Station,3,104978086,57160.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Back Bay,3,104978087,60495.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree - North Quincy,3,104978088,60950.0,390,5,44.205819557360144,Transit-Limited
+Boston,Readville - Hyde Park,3,104978121,61986.0,390,5,44.205819557360144,Transit-Limited
+Boston,Government Center - Medford/Tufts (Shuttle),3,104978122,61987.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont - JFK/UMass (Shuttle),3,104978123,61988.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Oak Grove (Local),3,104978124,61989.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Oak Grove (Express),3,104978125,61990.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree - JFK/UMass (Shuttle),3,104978126,61991.0,390,5,44.205819557360144,Transit-Limited
+Boston,JFK/UMass - Kendall/MIT (Shuttle),3,104978127,61992.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Wellington (Local),3,104978128,61993.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kenmore - Back Bay via Copley (Shuttle),3,104978129,61994.0,390,5,44.205819557360144,Transit-Limited
+Boston,Babcock Street - Back Bay via Copley (Shuttle),3,104978130,61995.0,390,5,44.205819557360144,Transit-Limited
+Boston,Orient Heights - Government Center (Express),3,104978131,61996.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wonderland - Airport (Shuttle),3,104978132,61997.0,390,5,44.205819557360144,Transit-Limited
+Boston,Orient Heights - Government Center (Local),3,104978133,61998.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Copley (Shuttle),3,104978134,61999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Back Bay (Shuttle),3,104978135,62000.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Back Bay via Copley (Shuttle),3,104978136,62001.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Wellington (Express),3,104978137,62002.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Kenmore (Shuttle),3,104978138,62003.0,390,5,44.205819557360144,Transit-Limited
+Boston,Haymarket - Airport (Local),3,104978139,62004.0,390,5,44.205819557360144,Transit-Limited
+Boston,Haymarket - Airport (Express),3,104978140,62005.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Medford/Tufts (Shuttle),3,104978141,62006.0,390,5,44.205819557360144,Transit-Limited
+Boston,Airport - Government Center (Express),3,104978142,62007.0,390,5,44.205819557360144,Transit-Limited
+Boston,Airport - Government Center (Local),3,104978143,62008.0,390,5,44.205819557360144,Transit-Limited
+Boston,Airport - Government Center via Maverick,3,104978144,62009.0,390,5,44.205819557360144,Transit-Limited
+Boston,Airport - Maverick,3,104978145,62010.0,390,5,44.205819557360144,Transit-Limited
+Boston,Airport - Wonderland,3,104978146,62011.0,390,5,44.205819557360144,Transit-Limited
+Boston,Maverick - Wonderland,3,104978147,62012.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wonderland - Government Center,3,104978148,62013.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wonderland - Orient Heights,3,104978149,62014.0,390,5,44.205819557360144,Transit-Limited
+Boston,Wonderland - Suffolk Downs,3,104978150,62015.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree - South Station (Express),3,104978151,62016.0,390,5,44.205819557360144,Transit-Limited
+Boston,Readville - South Station,3,104978152,62017.0,390,5,44.205819557360144,Transit-Limited
+Boston,Littleton/Route 495 - Alewife (Express),3,104978153,62018.0,390,5,44.205819557360144,Transit-Limited
+Boston,Littleton/Route 495 - Alewife (Local),3,104978154,62019.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forge Park/495 - Readville,3,104978159,62024.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forge Park/495 - South Station,3,104978160,62025.0,390,5,44.205819557360144,Transit-Limited
+Boston,Babcock Street - Back Bay,3,104978162,62027.0,390,5,44.205819557360144,Transit-Limited
+Boston,Babcock Street - Blandford Street,3,104978163,62028.0,390,5,44.205819557360144,Transit-Limited
+Boston,Babcock Street - Copley,3,104978164,62029.0,390,5,44.205819557360144,Transit-Limited
+Boston,Babcock Street - Kenmore,3,104978165,62030.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston College - Babcock Street,3,104978166,62031.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston College - Blandford Street,3,104978167,62032.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston College - Kenmore,3,104978168,62033.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston College - Packard's Corner,3,104978169,62034.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston College - Washington Street,3,104978170,62035.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston University East - Back Bay,3,104978171,62036.0,390,5,44.205819557360144,Transit-Limited
+Boston,Washington Street - Blandford Street,3,104978172,62037.0,390,5,44.205819557360144,Transit-Limited
+Boston,Washington Street - Kenmore,3,104978173,62038.0,390,5,44.205819557360144,Transit-Limited
+Boston,Cleveland Circle - Coolidge Corner,3,104978174,62039.0,390,5,44.205819557360144,Transit-Limited
+Boston,Cleveland Circle - Kenmore,3,104978175,62040.0,390,5,44.205819557360144,Transit-Limited
+Boston,Cleveland Circle - Saint Mary's Street,3,104978176,62041.0,390,5,44.205819557360144,Transit-Limited
+Boston,Saint Mary's Street - Back Bay,3,104978177,62042.0,390,5,44.205819557360144,Transit-Limited
+Boston,Saint Mary's Street - Kenmore,3,104978178,62043.0,390,5,44.205819557360144,Transit-Limited
+Boston,Brookline Hills - Kenmore,3,104978179,62044.0,390,5,44.205819557360144,Transit-Limited
+Boston,Fenway - Kenmore,3,104978180,62045.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Brookline Hills,3,104978181,62046.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Fenway,3,104978182,62047.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Kenmore,3,104978183,62048.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Kenmore via Saint Mary's Street,3,104978184,62049.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Reservoir,3,104978185,62050.0,390,5,44.205819557360144,Transit-Limited
+Boston,Reservoir - Brookline Hills,3,104978186,62051.0,390,5,44.205819557360144,Transit-Limited
+Boston,Reservoir - Fenway,3,104978187,62052.0,390,5,44.205819557360144,Transit-Limited
+Boston,Reservoir - Kenmore,3,104978188,62053.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Brookline Hills,3,104978189,62054.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Brookline Village,3,104978190,62055.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Copley (Express),3,104978191,62056.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Copley via Woodland (Express),3,104978192,62057.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Fenway,3,104978193,62058.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Kenmore,3,104978194,62059.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Kenmore via Saint Mary's Street,3,104978195,62060.0,390,5,44.205819557360144,Transit-Limited
+Boston,Riverside - Reservoir,3,104978197,62062.0,390,5,44.205819557360144,Transit-Limited
+Boston,Woodland - Copley via Riverside (Express),3,104978198,62063.0,390,5,44.205819557360144,Transit-Limited
+Boston,Heath Street - Park Street,3,104978199,62064.0,390,5,44.205819557360144,Transit-Limited
+Boston,Heath Street - Prudential,3,104978200,62065.0,390,5,44.205819557360144,Transit-Limited
+Boston,Medford/Tufts - East Somerville,3,104978201,62066.0,390,5,44.205819557360144,Transit-Limited
+Boston,Medford/Tufts - North Station,3,104978202,62067.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston University East - Park Street,3,104978203,62068.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kenmore - Back Bay,3,104978204,62069.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kenmore - Copley,3,104978205,62070.0,390,5,44.205819557360144,Transit-Limited
+Boston,Lechmere - North Station,3,104978206,62071.0,390,5,44.205819557360144,Transit-Limited
+Boston,Medford/Tufts - Government Center via Union Square,3,104978207,62072.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Government Center,3,104978208,62073.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Station - Sullivan Square via East Somerville,3,104978209,62074.0,390,5,44.205819557360144,Transit-Limited
+Boston,Union Square - Government Center,3,104978210,62075.0,390,5,44.205819557360144,Transit-Limited
+Boston,Union Square - North Station,3,104978211,62076.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ballardvale - North Station,3,104978214,62079.0,390,5,44.205819557360144,Transit-Limited
+Boston,Haverhill - North Station,3,104978218,62083.0,390,5,44.205819557360144,Transit-Limited
+Boston,South Weymouth - South Station,3,104978225,62090.0,390,5,44.205819557360144,Transit-Limited
+Boston,Anderson/Woburn - North Station (Express),3,104978226,62091.0,390,5,44.205819557360144,Transit-Limited
+Boston,Anderson/Woburn - North Station (Local),3,104978227,62092.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan - Ashmont,3,104978231,62096.0,390,5,44.205819557360144,Transit-Limited
+Boston,Needham Heights - Forest Hills,3,104978232,62097.0,390,5,44.205819557360144,Transit-Limited
+Boston,Newton Highlands - Forest Hills,3,104978233,62098.0,390,5,44.205819557360144,Transit-Limited
+Boston,Beverly - North Station (Limited),3,104978243,62108.0,390,5,44.205819557360144,Transit-Limited
+Boston,Swampscott - North Station (Limited),3,104978247,62112.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Copley,3,104978248,62113.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Jackson Square,3,104978249,62114.0,390,5,44.205819557360144,Transit-Limited
+Boston,Forest Hills - Ruggles,3,104978250,62115.0,390,5,44.205819557360144,Transit-Limited
+Boston,Jackson Square - Back Bay,3,104978251,62116.0,390,5,44.205819557360144,Transit-Limited
+Boston,Jackson Square - Copley,3,104978252,62117.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ruggles - Back Bay,3,104978253,62118.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ruggles - Copley,3,104978254,62119.0,390,5,44.205819557360144,Transit-Limited
+Boston,Sullivan Square - State,3,104978255,62120.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Davis,3,104978260,62125.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Harvard via Brattle Street,3,104978261,62126.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Harvard via Holyoke Street,3,104978262,62127.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Kendall/MIT,3,104978263,62128.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Kendall/MIT via Porter (Express),3,104978264,62129.0,390,5,44.205819557360144,Transit-Limited
+Boston,Alewife - Park Street,3,104978265,62130.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont - Braintree,3,104978266,62131.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont - Broadway,3,104978267,62132.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont - JFK/UMass,3,104978268,62133.0,390,5,44.205819557360144,Transit-Limited
+Boston,Ashmont - Park Street via Post Office,3,104978269,62134.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree - Broadway,3,104978270,62135.0,390,5,44.205819557360144,Transit-Limited
+Boston,Braintree - Quincy Center,3,104978271,62136.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - Broadway,3,104978272,62137.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - JFK/UMass via Congress Street,3,104978273,62138.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - JFK/UMass via State Street,3,104978274,62139.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - Kendall/MIT (Loop),3,104978275,62140.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - Park Street,3,104978276,62141.0,390,5,44.205819557360144,Transit-Limited
+Boston,Harvard - South Station,3,104978277,62142.0,390,5,44.205819557360144,Transit-Limited
+Boston,JFK/UMass - Broadway,3,104978278,62143.0,390,5,44.205819557360144,Transit-Limited
+Boston,JFK/UMass - Park Street,3,104978279,62144.0,390,5,44.205819557360144,Transit-Limited
+Boston,JFK/UMass - Park Street via Post Office,3,104978280,62145.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kendall/MIT - Broadway via Downtown Crossing,3,104978281,62146.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kendall/MIT - Broadway via Pearl Street,3,104978282,62147.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kendall/MIT - JFK/UMass,3,104978283,62148.0,390,5,44.205819557360144,Transit-Limited
+Boston,Kendall/MIT - Park Street,3,104978284,62149.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Quincy - Broadway,3,104978285,62150.0,390,5,44.205819557360144,Transit-Limited
+Boston,North Quincy - JFK/UMass,3,104978286,62151.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quincy Center - Broadway (Express),3,104978287,62152.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mattapan - JFK/UMass,3,104978288,62153.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Landing - Back Bay,3,104978297,62162.0,390,5,44.205819557360144,Transit-Limited
+Boston,Boston Landing - South Station (Express),3,104978298,62163.0,390,5,44.205819557360144,Transit-Limited
+Boston,Downeaster,2,105159745,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Lake Shore Limited,2,105159760,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Acela,2,105159770,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Northeast Regional,2,105159786,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,1636'er,3,105349918,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Allston Loop,3,105349919,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Crimson Cruiser,3,105349921,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Mather Express,3,105349927,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Overnight,3,105349928,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quad Express,3,105349929,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quad SEC Direct,3,105349930,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quad Stadium Express,3,105349932,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,Quad Yard Express,3,105349933,999.0,390,5,44.205819557360144,Transit-Limited
+Boston,SEC Express,3,105349934,999.0,390,5,44.205819557360144,Transit-Limited
+New York,Air Terminal,0,125197,0.0,1039,6,100.0,Transit-Rich
+New York,Howard Beach,0,125198,0.0,1039,6,100.0,Transit-Rich
+New York,Jamaica,0,125199,0.0,1039,6,100.0,Transit-Rich
+New York,BUFFALO -> NEW YORK,3,123854,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> SYRACUSE,3,123855,0.0,1039,6,100.0,Transit-Rich
+New York,ROCHESTER -> NEW YORK,3,123856,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ROCHESTER,3,123857,0.0,1039,6,100.0,Transit-Rich
+New York,SYRACUSE -> NEW YORK,3,123858,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> SYRACUSE,3,123859,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> BUFFALO,3,123860,0.0,1039,6,100.0,Transit-Rich
+New York,BUFFALO -> NEW YORK,3,123861,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ALBANY,3,123840,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY -> NEW YORK,3,123841,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY SUNY -> NEW YORK,3,123842,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ALBANY,3,123843,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ALBANY SUNY,3,123844,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY SUNY -> NEW YORK,3,123845,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY -> NEW YORK,3,123846,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY -> NEW YORK,3,123847,0.0,1039,6,100.0,Transit-Rich
+New York,ALBANY SUNY -> NEW YORK,3,123849,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ALBANY,3,123851,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> ALBANY,3,123852,0.0,1039,6,100.0,Transit-Rich
+New York,SIM 24 Outerbridge Park and Ride - Midtown Manhattan,3,118956,0.0,1039,6,100.0,Transit-Rich
+New York,SIM 23 Prince's Bay - Midtown Manhattan,3,118957,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK -> WILLIAMSPORT,3,231560,0.0,1039,6,100.0,Transit-Rich
+New York,WILLIAMSPORT -> NEW YORK,3,231561,0.0,1039,6,100.0,Transit-Rich
+New York,Governors Island Ferry,4,24814752,1.0,1039,6,100.0,Transit-Rich
+New York,Liberty Landing Ferry,4,24814723,1.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Williamsport,3,36791142,0.0,1039,6,100.0,Transit-Rich
+New York,Williamsport -> New York (P.A.B.T.),3,36791150,0.0,1039,6,100.0,Transit-Rich
+New York,BALTIMORE - NEWARK,3,51181248,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - BALTIMORE,3,51181249,0.0,1039,6,100.0,Transit-Rich
+New York,BOSTON LOGAN AIRPORT - NEWARK,3,51181250,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - BOSTON LOGAN AIRPORT,3,51181251,0.0,1039,6,100.0,Transit-Rich
+New York,HARTFORD - NEWARK,3,51181252,0.0,1039,6,100.0,Transit-Rich
+New York,Peter Pan - NEWARK - HARTFORD,3,51181253,0.0,1039,6,100.0,Transit-Rich
+New York,WORCESTER - NEWARK,3,51181254,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - WORCESTER,3,51181255,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - WASHINGTON DC,3,51181256,0.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - NEWARK,3,51181257,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - NEW YORK,3,51181258,0.0,1039,6,100.0,Transit-Rich
+New York,PHILADELPHIA - NEWARK,3,51181259,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - PHILADELPHIA,3,51181260,0.0,1039,6,100.0,Transit-Rich
+New York,WASHINGTON DC - NEWARK,3,51181261,0.0,1039,6,100.0,Transit-Rich
+New York,BOSTON SOUTH STATION - NEWARK,3,51181262,0.0,1039,6,100.0,Transit-Rich
+New York,PNEWARK - BOSTON SOUTH STATION,3,51181263,0.0,1039,6,100.0,Transit-Rich
+New York,SILVER SPRING - NEWARK,3,51181264,0.0,1039,6,100.0,Transit-Rich
+New York,NEWARK - SILVER SPRING,3,51181265,0.0,1039,6,100.0,Transit-Rich
+New York,BOSTON - WORCESTER - HARTFORD - WATERBURY - NEW YORK Express Service,3,51181267,10.0,1039,6,100.0,Transit-Rich
+New York,AMHERST - NORTHAMPTON - NEW YORK College Express,3,51181274,2.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - BALTIMORE - WASHINGTON DC Express Service,3,51181275,20.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - BOSTON Express Service,3,51181276,21.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - PHILADELPHIA Express Service,3,51181278,24.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - PROVIDENCE Express Service,3,51181280,26.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - WATERBURY - BERKSHIRES - WILLIAMSTOWN,3,51181282,28.0,1039,6,100.0,Transit-Rich
+New York,NEW YORK - WATERBURY - HARTFORD - WORCESTER - BOSTON Express Service,3,51181283,29.0,1039,6,100.0,Transit-Rich
+New York,PHILADELPHIA - NEW YORK Express Service,3,51181286,33.0,1039,6,100.0,Transit-Rich
+New York,PROVIDENCE - NEW YORK Express Service,3,51181288,35.0,1039,6,100.0,Transit-Rich
+New York,WASHINGTON DC - BALTIMORE - NEW YORK Express Service,3,51181293,40.0,1039,6,100.0,Transit-Rich
+New York,WILLIAMSTOWN - BERKSHIRES - WATERBURY - NEW YORK,3,51181295,42.0,1039,6,100.0,Transit-Rich
+New York,BOSTON - NEW YORK Express Service,3,51181297,8.0,1039,6,100.0,Transit-Rich
+New York,Free Downtown Connection,3,60333025,999.0,1039,6,100.0,Transit-Rich
+New York,Staten Island Ferry,4,61651232,999.0,1039,6,100.0,Transit-Rich
+New York,1 - COLLEGE-TARRYTOWN-WHITE PLAINS,3,81134493,999.0,1039,6,100.0,Transit-Rich
+New York,2 - THE BRONX-TUDOR WOODS,3,81134494,999.0,1039,6,100.0,Transit-Rich
+New York,3 - THE BRONX-WHITE PLAINS,3,81134495,999.0,1039,6,100.0,Transit-Rich
+New York,4 - THE BRONX-YONKERS,3,81134496,999.0,1039,6,100.0,Transit-Rich
+New York,7 - YONKERS-MT VERNON-NEW ROCHELLE,3,81134499,999.0,1039,6,100.0,Transit-Rich
+New York,8 - MT ST VINCENT-YONKERS-TUCKAHOE,3,81134500,999.0,1039,6,100.0,Transit-Rich
+New York,20 - THE BRONX-WHITE PLAINS,3,81134512,999.0,1039,6,100.0,Transit-Rich
+New York,21 - THE BRONX-WHITE PLAINS,3,81134513,999.0,1039,6,100.0,Transit-Rich
+New York,25 - THE BRONX-YONKERS,3,81134514,999.0,1039,6,100.0,Transit-Rich
+New York,26 - THE BRONX-YONKERS,3,81134515,999.0,1039,6,100.0,Transit-Rich
+New York,28 - BxM4C,3,81134517,999.0,1039,6,100.0,Transit-Rich
+New York,30 -YONKERS-BRONXVILLE-NEW ROCHELLE,3,81134518,999.0,1039,6,100.0,Transit-Rich
+New York,32 - YONKERS LOOP,3,81134520,999.0,1039,6,100.0,Transit-Rich
+New York,40 - MT VERNON-WHITE PLAINS-WC MC,3,81134524,999.0,1039,6,100.0,Transit-Rich
+New York,41 - MT VERNON-WHITE PLAINS-WC MC,3,81134525,999.0,1039,6,100.0,Transit-Rich
+New York,42 - BRONX-MT VERNON-NEW ROCHELLE,3,81134526,999.0,1039,6,100.0,Transit-Rich
+New York,43 - BRONX-MT VERNON-WESTCHESTER MC,3,81134527,999.0,1039,6,100.0,Transit-Rich
+New York,45-EASTCHES-NEW ROCHELLE-PELHAM BAY,3,81134528,999.0,1039,6,100.0,Transit-Rich
+New York,52 - MT VERNON-THE BRONX-BRONXVILLE,3,81134529,999.0,1039,6,100.0,Transit-Rich
+New York,53 - MT VERNON-CHESTER HEIGHTS,3,81134530,999.0,1039,6,100.0,Transit-Rich
+New York,54 - MT VERNON LOCAL,3,81134531,999.0,1039,6,100.0,Transit-Rich
+New York,55 - BRONX-MT VERNON-YONKERS,3,81134532,999.0,1039,6,100.0,Transit-Rich
+New York,60 -BRONX-NEW ROCHELLE-WHITE PLAINS,3,81134533,999.0,1039,6,100.0,Transit-Rich
+New York,61 -BRONX-NEW ROCHELLE-PORT CHESTER,3,81134534,999.0,1039,6,100.0,Transit-Rich
+New York,62 -BRONX-NEW ROCHELLE-WHITE PLAINS,3,81134535,999.0,1039,6,100.0,Transit-Rich
+New York,66 -DOBBS FERRY-SCARSDALE-LARCHMONT,3,81134539,999.0,1039,6,100.0,Transit-Rich
+New York,91 - YONKERS-MT VERNON-NEW ROCHELLE,3,81134551,999.0,1039,6,100.0,Transit-Rich
+New York,"Portland, ME to/from New York City",3,83360609,999.0,1039,6,100.0,Transit-Rich
+New York,New Hampshire to/from New York City,3,83360614,999.0,1039,6,100.0,Transit-Rich
+New York,AirTrain Newark,405,87469686,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Manhattan Beach,3,93922578,999.0,1039,6,100.0,Transit-Rich
+New York,Sunset Park - Midwood,3,93922579,999.0,1039,6,100.0,Transit-Rich
+New York,Lefferts Gardens - East New York,3,93922580,999.0,1039,6,100.0,Transit-Rich
+New York,Spring Creek - Wyckoff Hospital,3,93922581,999.0,1039,6,100.0,Transit-Rich
+New York,Spring Creek - Crown Heights,3,93922582,999.0,1039,6,100.0,Transit-Rich
+New York,Bedford Stuyvesant - JFK AirTrain,3,93922583,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Lefferts Gardens,3,93922584,999.0,1039,6,100.0,Transit-Rich
+New York,Canarsie - Crown Heights,3,93922585,999.0,1039,6,100.0,Transit-Rich
+New York,Kings Hwy Station - Kings Plaza,3,93922586,999.0,1039,6,100.0,Transit-Rich
+New York,Ridgewood - Spring Creek,3,93922587,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg - Greenpoint,3,93922588,999.0,1039,6,100.0,Transit-Rich
+New York,Dwntn Bklyn & DUMBO - Broadway Junction,3,93922589,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Ridgewood,3,93922590,999.0,1039,6,100.0,Transit-Rich
+New York,Bensonhurst - Bergen Beach,3,93922591,999.0,1039,6,100.0,Transit-Rich
+New York,Gerritsen Beach - Kings Hwy Station,3,93922592,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg - Long Island City,3,93922593,999.0,1039,6,100.0,Transit-Rich
+New York,Brownsville - Sunset Park,3,93922594,999.0,1039,6,100.0,Transit-Rich
+New York,Sheepshead Bay - Coney Island,3,93922595,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Bay Ridge,3,93922596,999.0,1039,6,100.0,Transit-Rich
+New York,Ridgewood - Downtown Brooklyn,3,93922597,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg Bridge Plaza - Lower East Side,3,93922598,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Sheepshead Bay,3,93922599,999.0,1039,6,100.0,Transit-Rich
+New York,Kings Plaza - Downtown Brooklyn,3,93922600,999.0,1039,6,100.0,Transit-Rich
+New York,Canarsie Pier - Rockaway Parkway Station,3,93922601,999.0,1039,6,100.0,Transit-Rich
+New York,Greenpoint - Lefferts Gardens,3,93922602,999.0,1039,6,100.0,Transit-Rich
+New York,Sheepshead Bay - Williamsburg,3,93922603,999.0,1039,6,100.0,Transit-Rich
+New York,Sheepshead Bay - Williamsburg,3,93922604,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Crown Heights,3,93922605,999.0,1039,6,100.0,Transit-Rich
+New York,Kings Plaza - Williamsburg,3,93922606,999.0,1039,6,100.0,Transit-Rich
+New York,Kings Plaza - Williamsburg,3,93922607,999.0,1039,6,100.0,Transit-Rich
+New York,Kings Plaza - Bedford-Stuyvesant,3,93922608,999.0,1039,6,100.0,Transit-Rich
+New York,Lefferts Gardens - Greenpoint,3,93922609,999.0,1039,6,100.0,Transit-Rich
+New York,Manhattan Beach - Bedford-Stuyvesant,3,93922610,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Ridgewood,3,93922611,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Ridgewood,3,93922612,999.0,1039,6,100.0,Transit-Rich
+New York,Gowanus - Maspeth,3,93922613,999.0,1039,6,100.0,Transit-Rich
+New York,Bath Beach - East New York,3,93922614,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg - Canarsie,3,93922615,999.0,1039,6,100.0,Transit-Rich
+New York,Park Slope - Downtown Brooklyn,3,93922616,999.0,1039,6,100.0,Transit-Rich
+New York,Astoria - Downtown Brooklyn,3,93922617,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Cobble Hill,3,93922618,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Coney Island,3,93922619,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Crown Heights,3,93922620,999.0,1039,6,100.0,Transit-Rich
+New York,Brooklyn Navy Yard - Kensington,3,93922621,999.0,1039,6,100.0,Transit-Rich
+New York,Coney Island - Windsor Terrace,3,93922622,999.0,1039,6,100.0,Transit-Rich
+New York,Downtown Brooklyn - Kensington,3,93922623,999.0,1039,6,100.0,Transit-Rich
+New York,Midwood - Bedford-Stuyvesant,3,93922624,999.0,1039,6,100.0,Transit-Rich
+New York,Dyker Heights - Sunset Park,3,93922625,999.0,1039,6,100.0,Transit-Rich
+New York,Sea Gate - Stillwell Av,3,93922626,999.0,1039,6,100.0,Transit-Rich
+New York,Dyker Heights - East Flatbush,3,93922627,999.0,1039,6,100.0,Transit-Rich
+New York,Coney Island - Spring Creek Towers,3,93922628,999.0,1039,6,100.0,Transit-Rich
+New York,Coney Island -spring Creek Towers,3,93922629,999.0,1039,6,100.0,Transit-Rich
+New York,Spring Creek - Broadway Junction,3,93922630,999.0,1039,6,100.0,Transit-Rich
+New York,Spring Creek-New Lots,3,93922631,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Kings Plaza,3,93922632,999.0,1039,6,100.0,Transit-Rich
+New York,Bedford Stuyvesant - Jamaica,3,93922730,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg - Jamaica,3,93922740,999.0,1039,6,100.0,Transit-Rich
+New York,Ridgewood - Richmond Hill,3,93922741,999.0,1039,6,100.0,Transit-Rich
+New York,Broadway Junction - Jamaica,3,93922742,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsburg - Rego Park,3,93922744,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Manhattan Express,3,93922812,999.0,1039,6,100.0,Transit-Rich
+New York,Sea Gate / Bensonhurst - Manhattan Express,3,93922813,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Ridge - Midtown Manhattan Express,3,93922814,999.0,1039,6,100.0,Transit-Rich
+New York,Sea Gate / Bensonhurst - Midtown Manhattan Express,3,93922815,999.0,1039,6,100.0,Transit-Rich
+New York,Long Island City - Glendale,3,93922862,999.0,1039,6,100.0,Transit-Rich
+New York,Elmhurst - Glendale,3,93922863,999.0,1039,6,100.0,Transit-Rich
+New York,Long Island City - Middle Village,3,93922864,999.0,1039,6,100.0,Transit-Rich
+New York,East Elmhurst - Ridgewood,3,93922865,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Lower Manhattan Express,3,93939664,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Manhattan Express,3,93939665,999.0,1039,6,100.0,Transit-Rich
+New York,Tottenville - Lower Manhattan Express,3,93939666,999.0,1039,6,100.0,Transit-Rich
+New York,Pt. Richmond - Midtown Manhattan Express,3,93939667,999.0,1039,6,100.0,Transit-Rich
+New York,Pt. Richmond - Manhattan Express,3,93939668,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Lower Manhattan Express,3,93939669,999.0,1039,6,100.0,Transit-Rich
+New York,Huguenot - Manhattan Express,3,93939671,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Lower Manhattan Express,3,93939672,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Midtown Manhattan Express,3,93939673,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Greenwich Village Express,3,93939674,999.0,1039,6,100.0,Transit-Rich
+New York,Huguenot - Midtown Manhattan Express,3,93939675,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Greenwich Village Express,3,93939677,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Midtown Manhattan Express,3,93939678,999.0,1039,6,100.0,Transit-Rich
+New York,New Dorp - Midtown Manhattan Express,3,93939679,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Lower Manhattan Express,3,93939680,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Midtown Manhattan Express,3,93939681,999.0,1039,6,100.0,Transit-Rich
+New York,Annadale - Midtown Manhattan Express,3,93939682,999.0,1039,6,100.0,Transit-Rich
+New York,Prince's Bay - Midtown Manhattan Express,3,93939683,999.0,1039,6,100.0,Transit-Rich
+New York,Tottenville - Midtown Manhattan Express,3,93939684,999.0,1039,6,100.0,Transit-Rich
+New York,Tottenville - Midtown Manhattan Express,3,93939685,999.0,1039,6,100.0,Transit-Rich
+New York,Sunnyside - Midtown Manhattan Express,3,93939686,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Midtown Manhattan Express,3,93939687,999.0,1039,6,100.0,Transit-Rich
+New York,Travis - Lower Manhattan Express,3,93939688,999.0,1039,6,100.0,Transit-Rich
+New York,Mariners Harbor - Manhattan Express,3,93939689,999.0,1039,6,100.0,Transit-Rich
+New York,Mariners Harbor - Greenwich Village Express,3,93939690,999.0,1039,6,100.0,Transit-Rich
+New York,Mariners Harbor - Lower Manhattan Express,3,93939691,999.0,1039,6,100.0,Transit-Rich
+New York,Port Richmond - Lower Manhattan Express,3,93939692,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Amazon,3,93939693,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Clyde Place,3,93939694,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Staten Island Mall,3,93939695,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - West Shore Plaza,3,93939696,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Mariners Harbor,3,93939697,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Grant City,3,93939698,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Staten Island Univ. Hospital,3,93939699,999.0,1039,6,100.0,Transit-Rich
+New York,Port Richmond - Bay Ridge,3,93939700,999.0,1039,6,100.0,Transit-Rich
+New York,West New Brighton - Eltingville,3,93939701,999.0,1039,6,100.0,Transit-Rich
+New York,Rossville - Staten Island Mall,3,93939702,999.0,1039,6,100.0,Transit-Rich
+New York,Huguenot - Staten Island Mall,3,93939703,999.0,1039,6,100.0,Transit-Rich
+New York,Port Richmond - New Dorp,3,93939704,999.0,1039,6,100.0,Transit-Rich
+New York,Port Richmond - Tottenville,3,93939705,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Staten Island Mall,3,93939706,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Travis,3,93939707,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Port Richmond,3,93939708,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Bricktown Mall,3,93939709,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Oakwood,3,93939710,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Bricktown Mall,3,93939711,999.0,1039,6,100.0,Transit-Rich
+New York,Staten Island Mall - Bay Ridge,3,93939712,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Grant City LTD,3,93939713,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Bricktown Mall LTD,3,93939714,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Oakwood LTD,3,93939715,999.0,1039,6,100.0,Transit-Rich
+New York,Eltingville - Bayonne LTD,3,93939716,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Amazon,3,93939717,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Staten Island Mall LTD,3,93939718,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Travis LTD,3,93939719,999.0,1039,6,100.0,Transit-Rich
+New York,College of Staten Island - Bay Ridge LTD,3,93939720,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Staten Island Mall LTD,3,93939721,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - West Shore Plaza LTD,3,93939722,999.0,1039,6,100.0,Transit-Rich
+New York,St. George - Mariners Harbor LTD,3,93939723,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - George Washington Bridge,3,93938850,999.0,1039,6,100.0,Transit-Rich
+New York,Westchester Sq - The Hub,3,93938851,999.0,1039,6,100.0,Transit-Rich
+New York,Westchester Sq - Gladstone Sq,3,93938852,999.0,1039,6,100.0,Transit-Rich
+New York,Pelham Bay - Gladstone Sq,3,93938853,999.0,1039,6,100.0,Transit-Rich
+New York,Hunts Point - Riverside Dr,3,93938854,999.0,1039,6,100.0,Transit-Rich
+New York,Hunts Point - Riverside Dr,3,93938855,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - Washington Heights,3,93938856,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsbridge - Locust Point,3,93938857,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - West Farms Sq,3,93938858,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - Mott Haven,3,93938859,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - Norwood,3,93938860,999.0,1039,6,100.0,Transit-Rich
+New York,George Washington Bridge - Parkchester,3,93938861,999.0,1039,6,100.0,Transit-Rich
+New York,Pelham Bay - Inwood,3,93938862,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Plaza - Inwood,3,93938863,999.0,1039,6,100.0,Transit-Rich
+New York,George Washington Bridge - Bronx Terminal Market,3,93938864,999.0,1039,6,100.0,Transit-Rich
+New York,Fordham Plaza - The Hub,3,93938865,999.0,1039,6,100.0,Transit-Rich
+New York,Pelham - Norwood,3,93938866,999.0,1039,6,100.0,Transit-Rich
+New York,Fordham Plaza - Port Morris,3,93938867,999.0,1039,6,100.0,Transit-Rich
+New York,Morris Heights/High Bridge Circulator,3,93938868,999.0,1039,6,100.0,Transit-Rich
+New York,Morris Heights/High Bridge Circulator,3,93938869,999.0,1039,6,100.0,Transit-Rich
+New York,NY Botanical Garden - Riverbank Park,3,93938870,999.0,1039,6,100.0,Transit-Rich
+New York,Kingsbridge Heights - Mott Haven,3,93938871,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - Inwood,3,93938872,999.0,1039,6,100.0,Transit-Rich
+New York,Westchester Sq - Mott Haven,3,93938873,999.0,1039,6,100.0,Transit-Rich
+New York,Bedford Park - Castle Hill,3,93938874,999.0,1039,6,100.0,Transit-Rich
+New York,Country Club - Hutchinson Metro Center,3,93938875,999.0,1039,6,100.0,Transit-Rich
+New York,Co-op City Bay Plaza - Bedford Park,3,93938876,999.0,1039,6,100.0,Transit-Rich
+New York,Co-op City Section 5 - Bedford Park,3,93938877,999.0,1039,6,100.0,Transit-Rich
+New York,Clasons Pt - Gladstone Sq,3,93938878,999.0,1039,6,100.0,Transit-Rich
+New York,Co-op City Section 5 - Fordham Center,3,93938879,999.0,1039,6,100.0,Transit-Rich
+New York,City Island - Pelham Bay,3,93938880,999.0,1039,6,100.0,Transit-Rich
+New York,Co-op City Section 5 - Pelham Parkway,3,93938881,999.0,1039,6,100.0,Transit-Rich
+New York,Woodlawn - Westchester Sq,3,93938882,999.0,1039,6,100.0,Transit-Rich
+New York,Kingsbridge VA Hospital - Mott Haven,3,93938883,999.0,1039,6,100.0,Transit-Rich
+New York,Port Morris - Harlem,3,93938884,999.0,1039,6,100.0,Transit-Rich
+New York,Woodlawn - Fordham Center,3,93938885,999.0,1039,6,100.0,Transit-Rich
+New York,George Washington Bridge-West Farms Road,3,93938886,999.0,1039,6,100.0,Transit-Rich
+New York,Soundview - George Washington Bridge,3,93938887,999.0,1039,6,100.0,Transit-Rich
+New York,Co-op City Bay Plaza - Norwood,3,93938888,999.0,1039,6,100.0,Transit-Rich
+New York,Wakefield - Clasons Pt,3,93938889,999.0,1039,6,100.0,Transit-Rich
+New York,Throgs Neck - River Park Towers,3,93938890,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsbridge - The Hub,3,93938891,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsbridge - The Hub,3,93938892,999.0,1039,6,100.0,Transit-Rich
+New York,Throgs Neck - River Park Towers,3,93938893,999.0,1039,6,100.0,Transit-Rich
+New York,Prospect Av - Westchester Av / Hunts Point Market,3,93938894,999.0,1039,6,100.0,Transit-Rich
+New York,Inwood - Harlem,3,93938904,999.0,1039,6,100.0,Transit-Rich
+New York,Bellerose - Jamaica,3,93933373,999.0,1039,6,100.0,Transit-Rich
+New York,Queens Village - Jamaica,3,93933374,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - JFK Airport,3,93933375,999.0,1039,6,100.0,Transit-Rich
+New York,Cambria Heights - Jamaica,3,93933376,999.0,1039,6,100.0,Transit-Rich
+New York,Laurelton - Jamaica,3,93933377,999.0,1039,6,100.0,Transit-Rich
+New York,Little Neck - Flushing,3,93933378,999.0,1039,6,100.0,Transit-Rich
+New York,Fort Totten - Flushing,3,93933379,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Beechhurst,3,93933380,999.0,1039,6,100.0,Transit-Rich
+New York,Fort Totten - Flushing,3,93933381,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Jamaica,3,93933382,999.0,1039,6,100.0,Transit-Rich
+New York,Cambria Heights - Flushing,3,93933384,999.0,1039,6,100.0,Transit-Rich
+New York,Little Neck - Jamaica,3,93933385,999.0,1039,6,100.0,Transit-Rich
+New York,Bayside - Jamaica,3,93933386,999.0,1039,6,100.0,Transit-Rich
+New York,Little Neck - Jamaica,3,93933387,999.0,1039,6,100.0,Transit-Rich
+New York,Addisleigh Park - Jamaica,3,93933388,999.0,1039,6,100.0,Transit-Rich
+New York,Floral Park - Jamaica,3,93933389,999.0,1039,6,100.0,Transit-Rich
+New York,Bronx Zoo - Jamaica,3,93933390,999.0,1039,6,100.0,Transit-Rich
+New York,LIJ Hospital - Kew Gardens,3,93933391,999.0,1039,6,100.0,Transit-Rich
+New York,Glen Oaks - Kew Gardens,3,93933392,999.0,1039,6,100.0,Transit-Rich
+New York,Ridgewood - Flushing,3,93933396,999.0,1039,6,100.0,Transit-Rich
+New York,College Point - Jamaica,3,93933398,999.0,1039,6,100.0,Transit-Rich
+New York,Springfield Gardens - Jamaica,3,93933399,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - Belmont Park,3,93933400,999.0,1039,6,100.0,Transit-Rich
+New York,Cambria Heights - Jamaica,3,93933401,999.0,1039,6,100.0,Transit-Rich
+New York,Laurelton - Jamaica,3,93933402,999.0,1039,6,100.0,Transit-Rich
+New York,Rosedale - Jamaica,3,93933403,999.0,1039,6,100.0,Transit-Rich
+New York,Elmhurst - Queens Village,3,93933404,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - LaGuardia Airport,3,93933477,999.0,1039,6,100.0,Transit-Rich
+New York,Ridgewood - Flushing,3,93933500,999.0,1039,6,100.0,Transit-Rich
+New York,Rego Park - Maspeth,3,93933504,999.0,1039,6,100.0,Transit-Rich
+New York,College Point - Jamaica,3,93933505,999.0,1039,6,100.0,Transit-Rich
+New York,Beechhurst - Flushing,3,93933506,999.0,1039,6,100.0,Transit-Rich
+New York,Green Acres - Jamaica,3,93933507,999.0,1039,6,100.0,Transit-Rich
+New York,Green Acres - Jamaica,3,93933508,999.0,1039,6,100.0,Transit-Rich
+New York,Rosedale - Jamaica,3,93933509,999.0,1039,6,100.0,Transit-Rich
+New York,Rosedale - Midtown Express,3,93933510,999.0,1039,6,100.0,Transit-Rich
+New York,Elmont - Midtown Express,3,93933511,999.0,1039,6,100.0,Transit-Rich
+New York,Floral Park - Midtown Express,3,93933512,999.0,1039,6,100.0,Transit-Rich
+New York,Fresh Meadows - Kew Gardens,3,93933513,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - QCC,3,93933514,999.0,1039,6,100.0,Transit-Rich
+New York,Hudson Rail Link Riverdale,3,96973612,999.0,1039,6,100.0,Transit-Rich
+New York,Hudson Rail Link Spuyten Duyvil,3,96973613,999.0,1039,6,100.0,Transit-Rich
+New York,Paulus Hook - Pier 11 / Wall St,4,97396405,29.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396407,999.0,1039,6,100.0,Transit-Rich
+New York,Paulus Hook - Midtown / W 39th St,4,97396408,3.0,1039,6,100.0,Transit-Rich
+New York,South Amboy - Pier 11/Wall St.,4,97396409,0.0,1039,6,100.0,Transit-Rich
+New York,42nd St,3,97396410,11.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / 14th St - Brookfield Place,4,97396411,23.0,1039,6,100.0,Transit-Rich
+New York,57th St,3,97396412,13.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / NJ Transit Terminal - Brookfield Place,4,97396413,24.0,1039,6,100.0,Transit-Rich
+New York,Downtown Local,3,97396414,15.0,1039,6,100.0,Transit-Rich
+New York,Liberty Harbor - Pier 11 / Wall St,4,97396415,30.0,1039,6,100.0,Transit-Rich
+New York,Edgewater - Pier 11/Wall St,3,97396416,10.0,1039,6,100.0,Transit-Rich
+New York,Weehawken Township Shuttle,3,97396417,19.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396418,999.0,1039,6,100.0,Transit-Rich
+New York,Port Imperial - Midtown / W 39th St,4,97396420,33.0,1039,6,100.0,Transit-Rich
+New York,Lincoln Harbor - Midtown / W 39th St,4,97396421,36.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396422,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396423,999.0,1039,6,100.0,Transit-Rich
+New York,Edgewater - Brookfield Place,3,97396424,9.0,1039,6,100.0,Transit-Rich
+New York,Port Imperial - Brookfield Place,4,97396425,22.0,1039,6,100.0,Transit-Rich
+New York,34th St,3,97396426,12.0,1039,6,100.0,Transit-Rich
+New York,50th St,3,97396427,14.0,1039,6,100.0,Transit-Rich
+New York,Port Liberte - Pier 11/Wall St,3,97396428,20.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396429,999.0,1039,6,100.0,Transit-Rich
+New York,Edgewater - Midtown / W 39th St,4,97396430,5.0,1039,6,100.0,Transit-Rich
+New York,Port Imperial - Pier 11  / Wall St,4,97396431,26.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / NJ Transit Terminal - Pier 11 / Wall St,4,97396432,28.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / NJ Transit Terminal - Midtown / W 39th St,4,97396433,6.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / 14th St - Pier 11 / Wall St,3,97396434,27.0,1039,6,100.0,Transit-Rich
+New York,Paulus Hook - Brookfield Place,4,97396435,25.0,1039,6,100.0,Transit-Rich
+New York,Hoboken / 14th St - Midtown / W 39th St,4,97396436,35.0,1039,6,100.0,Transit-Rich
+New York,Newburgh - Beacon - Winter Bus,3,97396437,0.0,1039,6,100.0,Transit-Rich
+New York,W44/59th St,3,97396438,0.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396439,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,97396440,999.0,1039,6,100.0,Transit-Rich
+New York,Elmont Rd / Central Av,3,98139066,999.0,1039,6,100.0,Transit-Rich
+New York,Northern Bl,3,98139072,999.0,1039,6,100.0,Transit-Rich
+New York,Northern Bl / Cedar Swamp Rd,3,98139073,999.0,1039,6,100.0,Transit-Rich
+New York,Northern Bl Express,3,98139074,999.0,1039,6,100.0,Transit-Rich
+New York,Northern Bl / Shore Rd,3,98139075,999.0,1039,6,100.0,Transit-Rich
+New York,Hillside Av Local,3,98139076,999.0,1039,6,100.0,Transit-Rich
+New York,Hillside Av Express,3,98139077,999.0,1039,6,100.0,Transit-Rich
+New York,Willis Av / Pt Washington Bl,3,98139078,999.0,1039,6,100.0,Transit-Rich
+New York,Jericho Tp,3,98139079,999.0,1039,6,100.0,Transit-Rich
+New York,Franklin Av / New Hyde Park Rd,3,98139080,999.0,1039,6,100.0,Transit-Rich
+New York,Franklin Av / New Hyde Park Rd,3,98139081,999.0,1039,6,100.0,Transit-Rich
+New York,Hillside Av / Lakeville Rd,3,98139082,999.0,1039,6,100.0,Transit-Rich
+New York,Hempstead Av / W Broadway,3,98139084,999.0,1039,6,100.0,Transit-Rich
+New York,W Broadway Express,3,98139085,999.0,1039,6,100.0,Transit-Rich
+New York,Hempstead Av / Broadway,3,98139086,999.0,1039,6,100.0,Transit-Rich
+New York,Long Beach Loop,3,98139087,999.0,1039,6,100.0,Transit-Rich
+New York,Merrick Rd Local,3,98139089,999.0,1039,6,100.0,Transit-Rich
+New York,Merrick Rd Express,3,98139096,999.0,1039,6,100.0,Transit-Rich
+New York,Great Neck Loop,3,98139099,999.0,1039,6,100.0,Transit-Rich
+New York,Middle Neck Rd / Steamboat Rd,3,98139100,999.0,1039,6,100.0,Transit-Rich
+New York,Hempstead Tp Local,3,98139101,999.0,1039,6,100.0,Transit-Rich
+New York,Hempstead Tp Express,3,98139102,999.0,1039,6,100.0,Transit-Rich
+New York,Elmont Flexi Shuttle,3,98139108,999.0,1039,6,100.0,Transit-Rich
+New York,Port Washington Shuttle,3,98139109,999.0,1039,6,100.0,Transit-Rich
+New York,New York City / New Jersey,4,98537485,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553177,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553178,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553179,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553180,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553181,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553182,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553183,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553184,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553185,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553186,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553187,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553188,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553189,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553190,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553191,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553192,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553193,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553194,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553195,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553196,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553197,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553198,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553199,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553200,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553201,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553202,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553203,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553204,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553205,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553206,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553207,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553208,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553209,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553210,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553211,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553212,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553213,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553214,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553215,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553216,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553217,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553218,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553219,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553220,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553221,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553222,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553223,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553224,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553225,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553226,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553227,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553228,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553229,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553230,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553232,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553233,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553234,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553235,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553236,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553237,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553238,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553239,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553240,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553241,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553242,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553243,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553244,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553245,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553246,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553247,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553248,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553249,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553250,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553251,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553252,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553253,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553254,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553255,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553256,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553257,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553258,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553259,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553260,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553261,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553262,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553263,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553264,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553265,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553266,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553271,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553272,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553273,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553274,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553275,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553276,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553277,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553278,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553279,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553280,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553281,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553282,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553283,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553284,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553295,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553303,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553313,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553314,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553323,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553330,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553331,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553332,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553333,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553334,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553348,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553350,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553351,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553352,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553353,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553354,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553355,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553356,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553357,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553358,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553359,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553360,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553361,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553362,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553363,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553364,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553365,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553366,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553367,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553368,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553369,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553370,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553371,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553372,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553373,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553374,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553375,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553376,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553377,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553378,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553379,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553380,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553381,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553382,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553383,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553384,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553385,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553386,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553392,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553401,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553403,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553411,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553412,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553413,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553414,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553421,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553423,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553426,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553427,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553428,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553429,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553430,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553431,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553433,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553437,999.0,1039,6,100.0,Transit-Rich
+New York,Unknown,3,98553438,999.0,1039,6,100.0,Transit-Rich
+New York,RIOC Red Bus,3,99155916,0.0,1039,6,100.0,Transit-Rich
+New York,Roosevelt Island Aerial Tramway,0,99155917,0.0,1039,6,100.0,Transit-Rich
+New York,Octagon Express,3,99155918,0.0,1039,6,100.0,Transit-Rich
+New York,Harlem - East Village,3,99878975,999.0,1039,6,100.0,Transit-Rich
+New York,Washington Heights - East Village,3,99878976,999.0,1039,6,100.0,Transit-Rich
+New York,Fort George - East Village,3,99878977,999.0,1039,6,100.0,Transit-Rich
+New York,The Cloisters - 32 St,3,99878978,999.0,1039,6,100.0,Transit-Rich
+New York,George Washington Bridge - 31 St & 6 Av,3,99878979,999.0,1039,6,100.0,Transit-Rich
+New York,Harlem - 14th Street,3,99878980,999.0,1039,6,100.0,Transit-Rich
+New York,West Village - East Village,3,99878981,999.0,1039,6,100.0,Transit-Rich
+New York,Battery Park City - Kips Bay,3,99878982,999.0,1039,6,100.0,Transit-Rich
+New York,Harlem - Columbus Circle,3,99878983,999.0,1039,6,100.0,Transit-Rich
+New York,East Village - Fort George,3,99878985,999.0,1039,6,100.0,Transit-Rich
+New York,Harlem - East Village,3,99878986,999.0,1039,6,100.0,Transit-Rich
+New York,East Harlem - City Hall,3,99878987,999.0,1039,6,100.0,Transit-Rich
+New York,West Harlem - Times Square,3,99878988,999.0,1039,6,100.0,Transit-Rich
+New York,East Harlem - West Side,3,99878989,999.0,1039,6,100.0,Transit-Rich
+New York,Riverbank Park & Harlem - West Village,3,99878990,999.0,1039,6,100.0,Transit-Rich
+New York,West Side - East Harlem,3,99878991,999.0,1039,6,100.0,Transit-Rich
+New York,Midtown West - West Village,3,99878992,999.0,1039,6,100.0,Transit-Rich
+New York,Manhattanville - The Hub,3,99878993,999.0,1039,6,100.0,Transit-Rich
+New York,Lower East Side - Abingdon Sq,3,99878994,999.0,1039,6,100.0,Transit-Rich
+New York,Lower East Side - Chelsea Piers,3,99878995,999.0,1039,6,100.0,Transit-Rich
+New York,East Harlem - South Ferry,3,99878996,999.0,1039,6,100.0,Transit-Rich
+New York,East Harlem - South Ferry,3,99878997,999.0,1039,6,100.0,Transit-Rich
+New York,Lincoln Center - South Ferry,3,99878998,999.0,1039,6,100.0,Transit-Rich
+New York,Lower East Side - West Village,3,99878999,999.0,1039,6,100.0,Transit-Rich
+New York,Lower East Side - Battery Park City,3,99879000,999.0,1039,6,100.0,Transit-Rich
+New York,Chelsea Piers - East Side,3,99879001,999.0,1039,6,100.0,Transit-Rich
+New York,Yorkville - Clinton,3,99879002,999.0,1039,6,100.0,Transit-Rich
+New York,East Side - Javits Center,3,99879003,999.0,1039,6,100.0,Transit-Rich
+New York,Waterside - Port Authority Terminal,3,99879004,999.0,1039,6,100.0,Transit-Rich
+New York,Ward's Island - East Harlem,3,99879005,999.0,1039,6,100.0,Transit-Rich
+New York,United Nations - W 42 St Pier,3,99879006,999.0,1039,6,100.0,Transit-Rich
+New York,W 42 St Pier - East Side,3,99879007,999.0,1039,6,100.0,Transit-Rich
+New York,W 44 St  - South Ferry,3,99879008,999.0,1039,6,100.0,Transit-Rich
+New York,East Side - West Side,3,99879009,999.0,1039,6,100.0,Transit-Rich
+New York,West Side - LaGuardia Airport,3,99879010,999.0,1039,6,100.0,Transit-Rich
+New York,East Side - Lincoln Center,3,99879011,999.0,1039,6,100.0,Transit-Rich
+New York,East Side - West Side,3,99879012,999.0,1039,6,100.0,Transit-Rich
+New York,Yorkville - West Side,3,99879013,999.0,1039,6,100.0,Transit-Rich
+New York,Yorkville - West Side,3,99879014,999.0,1039,6,100.0,Transit-Rich
+New York,East Side - West Side,3,99879015,999.0,1039,6,100.0,Transit-Rich
+New York,Washington Heights - Upper East Side LTD,3,99879016,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - Sutphin Blvd - Jfk Cargo Area,3,99878077,999.0,1039,6,100.0,Transit-Rich
+New York,Cypress Hills - Rockaway Blvd - Jfk Travel Plz.,3,99878078,999.0,1039,6,100.0,Transit-Rich
+New York,Gateway Mall / East Ny - Jamaica,3,99878079,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - South Ozone Park,3,99878080,999.0,1039,6,100.0,Transit-Rich
+New York,Jfk Airtrain - Kew Gardens Via Rockaway,3,99878081,999.0,1039,6,100.0,Transit-Rich
+New York,Howard Beach - Elmhurst,3,99878082,999.0,1039,6,100.0,Transit-Rich
+New York,Astoria - Maspeth,3,99878083,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Astoria,3,99878084,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway Beach Bl / Beach Channel Dr,3,99878085,999.0,1039,6,100.0,Transit-Rich
+New York,East Elmhurst - Forest Hills,3,99878086,999.0,1039,6,100.0,Transit-Rich
+New York,College Point - Jamaica,3,99878087,999.0,1039,6,100.0,Transit-Rich
+New York,College Point - Fresh Meadows,3,99878088,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Bay Terrace Rush,3,99878089,999.0,1039,6,100.0,Transit-Rich
+New York,Jackson Heights - Penn Station (Midtown),3,99878090,999.0,1039,6,100.0,Transit-Rich
+New York,Marine Air Terminal Lga-Jackson Heights,3,99878091,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway Park - Midwood / Brooklyn Coll.,3,99878092,999.0,1039,6,100.0,Transit-Rich
+New York,Kew Gardens - South Ozone Park,3,99878093,999.0,1039,6,100.0,Transit-Rich
+New York,South Ozone Park - Jamaica,3,99878094,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - Howard Beach,3,99878095,999.0,1039,6,100.0,Transit-Rich
+New York,East Elmhurst - Glendale,3,99878096,999.0,1039,6,100.0,Transit-Rich
+New York,East Elmhurst - Jackson Heights,3,99878097,999.0,1039,6,100.0,Transit-Rich
+New York,Co-Op City/Pelham Bay - Flushing Ltd,3,99878098,999.0,1039,6,100.0,Transit-Rich
+New York,Linden Blvd Limited,3,99878099,999.0,1039,6,100.0,Transit-Rich
+New York,Queens Blvd. - East Midtown,3,99878100,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Long Island City Rush,3,99878101,999.0,1039,6,100.0,Transit-Rich
+New York,Electchester - Forest Hills,3,99878102,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Jamaica,3,99878103,999.0,1039,6,100.0,Transit-Rich
+New York,Flushing - Long Island City,3,99878104,999.0,1039,6,100.0,Transit-Rich
+New York,East Elmhurst - Long Island City,3,99878105,999.0,1039,6,100.0,Transit-Rich
+New York,LaGuardia Airport - Rego Park,3,99878106,999.0,1039,6,100.0,Transit-Rich
+New York,Forest Hills - Qcc Ltd,3,99878107,999.0,1039,6,100.0,Transit-Rich
+New York,JFK Airtrain - Kew Gardens Via Lefferts,3,99878108,999.0,1039,6,100.0,Transit-Rich
+New York,Mill Basin - Midwood,3,99878109,999.0,1039,6,100.0,Transit-Rich
+New York,Canarsie - Downtown Brooklyn Ltd,3,99878110,999.0,1039,6,100.0,Transit-Rich
+New York,Mill Basin - Downtown/Midtown,3,99878111,999.0,1039,6,100.0,Transit-Rich
+New York,Canarsie/Spring Creek - Downtown/Midtown,3,99878112,999.0,1039,6,100.0,Transit-Rich
+New York,Sheepshead Bay - Downtown/Midtown,3,99878113,999.0,1039,6,100.0,Transit-Rich
+New York,Gerritsen Beach - Downtown/Midtown,3,99878114,999.0,1039,6,100.0,Transit-Rich
+New York,Spring Creek - Midtown,3,99878115,999.0,1039,6,100.0,Transit-Rich
+New York,Pelham Bay - Co-Op City,3,99878116,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - East Midtown,3,99878117,999.0,1039,6,100.0,Transit-Rich
+New York,Williamsbridge/Morris Park - Midtown,3,99878118,999.0,1039,6,100.0,Transit-Rich
+New York,Wakefield - Midtown,3,99878119,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - Downtown,3,99878120,999.0,1039,6,100.0,Transit-Rich
+New York,Riverdale - West Midtown,3,99878121,999.0,1039,6,100.0,Transit-Rich
+New York,Yonkers - Midtown,3,99878122,999.0,1039,6,100.0,Transit-Rich
+New York,Woodlawn - Midtown,3,99878123,999.0,1039,6,100.0,Transit-Rich
+New York,Parkchester - Midtown,3,99878124,999.0,1039,6,100.0,Transit-Rich
+New York,Co-Op City - Midtown,3,99878125,999.0,1039,6,100.0,Transit-Rich
+New York,Pelham Bay/City Island - Midtown,3,99878126,999.0,1039,6,100.0,Transit-Rich
+New York,Throgs Neck - Midtown Express,3,99878127,999.0,1039,6,100.0,Transit-Rich
+New York,Rikers Island - Long Island City Ltd,3,99878128,999.0,1039,6,100.0,Transit-Rich
+New York,Steinway - Hunters Point,3,99878129,999.0,1039,6,100.0,Transit-Rich
+New York,Roosevelt Island - Long Island City,3,99878130,999.0,1039,6,100.0,Transit-Rich
+New York,Astoria - Hunters Point,3,99878131,999.0,1039,6,100.0,Transit-Rich
+New York,Astoria - Sunnyside,3,99878132,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica Avenue East,3,99878133,999.0,1039,6,100.0,Transit-Rich
+New York,Rosedale - Jamaica Rush,3,99878134,999.0,1039,6,100.0,Transit-Rich
+New York,Jamaica - East Ny,3,99878135,999.0,1039,6,100.0,Transit-Rich
+New York,Far Rockaway - Jamaica Limited,3,99878136,999.0,1039,6,100.0,Transit-Rich
+New York,Far Rockaway - Jamaica Rush,3,99878137,999.0,1039,6,100.0,Transit-Rich
+New York,Brewer Blvd. Local,3,99878138,999.0,1039,6,100.0,Transit-Rich
+New York,Fresh Meadows - Midtown Express,3,99878139,999.0,1039,6,100.0,Transit-Rich
+New York,Lefrak City - Midtown Express,3,99878140,999.0,1039,6,100.0,Transit-Rich
+New York,Forest Hills - Downtown Express,3,99878141,999.0,1039,6,100.0,Transit-Rich
+New York,Forest Hills - Midtown Express,3,99878142,999.0,1039,6,100.0,Transit-Rich
+New York,Lindenwood - Midtown Express,3,99878143,999.0,1039,6,100.0,Transit-Rich
+New York,Neponsit - Midtown Express,3,99878144,999.0,1039,6,100.0,Transit-Rich
+New York,Far Rockaway - Midtown Express,3,99878145,999.0,1039,6,100.0,Transit-Rich
+New York,South Ozone Park - Midtown Express,3,99878146,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Terrace - Midtown Express,3,99878147,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Terrace - Midtown Express,3,99878148,999.0,1039,6,100.0,Transit-Rich
+New York,Rochdale Village - Midtown Exp.,3,99878149,999.0,1039,6,100.0,Transit-Rich
+New York,Glendale - Midtown Express,3,99878150,999.0,1039,6,100.0,Transit-Rich
+New York,Glendale - Downtown Express,3,99878151,999.0,1039,6,100.0,Transit-Rich
+New York,Fresh Meadows - Midtown Express,3,99878152,999.0,1039,6,100.0,Transit-Rich
+New York,Bay Terrace - Midtown Express,3,99878153,999.0,1039,6,100.0,Transit-Rich
+New York,Glendale - Midtown Express,3,99878154,999.0,1039,6,100.0,Transit-Rich
+New York,Glen Oaks - Midtown Express,3,99878155,999.0,1039,6,100.0,Transit-Rich
+New York,Lake Success - Midtown Express,3,99878156,999.0,1039,6,100.0,Transit-Rich
+New York,Electchester - Midtown Express,3,99878157,999.0,1039,6,100.0,Transit-Rich
+New York,Lefrak City - Midtown Express,3,99878158,999.0,1039,6,100.0,Transit-Rich
+New York,Forest Hills - Midtown Express,3,99878159,999.0,1039,6,100.0,Transit-Rich
+New York,Electchester - Midtown Express,3,99878160,999.0,1039,6,100.0,Transit-Rich
+New York,Glen Oaks - Midtown Express,3,99878161,999.0,1039,6,100.0,Transit-Rich
+New York,Lake Success - Midtown Express,3,99878162,999.0,1039,6,100.0,Transit-Rich
+New York,Laurelton-Rochdale-Lower Manhattan,3,99878163,999.0,1039,6,100.0,Transit-Rich
+New York,Fresh Meadows - Downtown Express,3,99878164,999.0,1039,6,100.0,Transit-Rich
+New York,Glen Oaks - Downtown Express,3,99878165,999.0,1039,6,100.0,Transit-Rich
+New York,Elmhurst - Arverne Sbs Vis Woodhaven/Cross Bay,3,99878166,999.0,1039,6,100.0,Transit-Rich
+New York,Woodside - Rockaway Park,3,99878167,999.0,1039,6,100.0,Transit-Rich
+New York,LaGuardia Link,3,99878168,999.0,1039,6,100.0,Transit-Rich
+New York,2,3,100306553,999.0,1039,6,100.0,Transit-Rich
+New York,1,3,100306554,999.0,1039,6,100.0,Transit-Rich
+New York,4,3,100306555,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 1.5 Hour After ZMAN,3,100306556,999.0,1039,6,100.0,Transit-Rich
+New York,8,3,100306557,999.0,1039,6,100.0,Transit-Rich
+New York,From Manhattan,3,100306558,999.0,1039,6,100.0,Transit-Rich
+New York,6-7,3,100306559,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 1.5 Hour After ZMAN,3,100306560,999.0,1039,6,100.0,Transit-Rich
+New York,3,3,100306561,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 3 Hour After ZMAN,3,100306562,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 4.5 Hour After ZMAN,3,100306563,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 6 Hour After ZMAN,3,100306564,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 3 Hour After ZMAN,3,100306565,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 4.5 Hour After ZMAN,3,100306566,999.0,1039,6,100.0,Transit-Rich
+New York,DEPARTS 6 Hour After ZMAN,3,100306567,999.0,1039,6,100.0,Transit-Rich
+New York,8 Avenue Express,1,101345404,1.0,1039,6,100.0,Transit-Rich
+New York,8 Avenue Local,1,101345405,2.0,1039,6,100.0,Transit-Rich
+New York,8 Avenue Local,1,101345406,3.0,1039,6,100.0,Transit-Rich
+New York,6 Avenue Express,1,101345407,4.0,1039,6,100.0,Transit-Rich
+New York,6 Avenue Express,1,101345408,5.0,1039,6,100.0,Transit-Rich
+New York,Queens Blvd Express/6 Av Local,1,101345409,6.0,1039,6,100.0,Transit-Rich
+New York,Brooklyn F Express,1,101345410,7.0,1039,6,100.0,Transit-Rich
+New York,Queens Blvd Local/6 Av Local,1,101345411,8.0,1039,6,100.0,Transit-Rich
+New York,Brooklyn-Queens Crosstown,1,101345412,9.0,1039,6,100.0,Transit-Rich
+New York,Nassau St Local,1,101345413,10.0,1039,6,100.0,Transit-Rich
+New York,Nassau St Express,1,101345414,11.0,1039,6,100.0,Transit-Rich
+New York,14 St-Canarsie Local,1,101345415,12.0,1039,6,100.0,Transit-Rich
+New York,Broadway Local,1,101345416,13.0,1039,6,100.0,Transit-Rich
+New York,Broadway Express,1,101345417,14.0,1039,6,100.0,Transit-Rich
+New York,Broadway Local,1,101345418,15.0,1039,6,100.0,Transit-Rich
+New York,Broadway Local,1,101345419,16.0,1039,6,100.0,Transit-Rich
+New York,42 St Shuttle,1,101345420,17.0,1039,6,100.0,Transit-Rich
+New York,Franklin Avenue Shuttle,1,101345421,18.0,1039,6,100.0,Transit-Rich
+New York,Rockaway Park Shuttle,1,101345422,19.0,1039,6,100.0,Transit-Rich
+New York,Broadway - 7 Avenue Local,1,101345423,20.0,1039,6,100.0,Transit-Rich
+New York,7 Avenue Express,1,101345424,21.0,1039,6,100.0,Transit-Rich
+New York,7 Avenue Express,1,101345425,22.0,1039,6,100.0,Transit-Rich
+New York,Lexington Avenue Express,1,101345426,23.0,1039,6,100.0,Transit-Rich
+New York,Lexington Avenue Express,1,101345427,24.0,1039,6,100.0,Transit-Rich
+New York,Lexington Avenue Local,1,101345428,25.0,1039,6,100.0,Transit-Rich
+New York,Pelham Bay Park Express,1,101345429,26.0,1039,6,100.0,Transit-Rich
+New York,Flushing Local,1,101345430,27.0,1039,6,100.0,Transit-Rich
+New York,Flushing Express,1,101345431,28.0,1039,6,100.0,Transit-Rich
+New York,Staten Island Railway,2,101345432,29.0,1039,6,100.0,Transit-Rich
+New York,Liberty State Park Loop,4,101361304,2.0,1039,6,100.0,Transit-Rich
+New York,Battery Park Full Loop,4,101361305,1.0,1039,6,100.0,Transit-Rich
+New York,Battery Park - Liberty Island Loop,4,101361306,999.0,1039,6,100.0,Transit-Rich
+New York,Battery Park - Ellis Island Loop,4,101361307,999.0,1039,6,100.0,Transit-Rich
+New York,Liberty State Park Return Loop,4,101361308,999.0,1039,6,100.0,Transit-Rich
+New York,Fort Lee AM 1,3,102097882,999.0,1039,6,100.0,Transit-Rich
+New York,Fort Lee AM 2,3,102097883,999.0,1039,6,100.0,Transit-Rich
+New York,Fort Lee PM 1,3,102097884,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 1A,3,102097885,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 1B,3,102097886,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 1C,3,102097887,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 1D,3,102097888,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 1E,3,102097889,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 2 Trip 1,3,102097890,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 2 Trip 2,3,102097891,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 2 Trip 3,3,102097892,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 2 Trip 4,3,102097893,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont 2 Trip 5,3,102097894,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont Sat AM,3,102097895,999.0,1039,6,100.0,Transit-Rich
+New York,Lamont Sat PM,3,102097896,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto - New York,2,102526242,999.0,1039,6,100.0,Transit-Rich
+New York,77 Local,3,102618613,1.0,1039,6,100.0,Transit-Rich
+New York,9/9A,3,102618614,11.0,1039,6,100.0,Transit-Rich
+New York,11A,3,102618615,12.0,1039,6,100.0,Transit-Rich
+New York,20,3,102618616,15.0,1039,6,100.0,Transit-Rich
+New York,45,3,102618617,17.0,1039,6,100.0,Transit-Rich
+New York,47,3,102618618,18.0,1039,6,100.0,Transit-Rich
+New York,49,3,102618619,19.0,1039,6,100.0,Transit-Rich
+New York,100 - Catskills,3,102618624,24.0,1039,6,100.0,Transit-Rich
+New York,200 - Northern District – Nanuet,3,102618625,25.0,1039,6,100.0,Transit-Rich
+New York,250 - Mahwah - Oakland - Wyckoff,3,102618626,26.0,1039,6,100.0,Transit-Rich
+New York,300 - NYC - Middletown,3,102618627,27.0,1039,6,100.0,Transit-Rich
+New York,400 - Kerhonkson/Ellenville - NYC,3,102618628,28.0,1039,6,100.0,Transit-Rich
+New York,500 - Monroe - Chester - Goshen,3,102618629,29.0,1039,6,100.0,Transit-Rich
+New York,700 - Newburgh - Poughkeepsie,3,102618632,31.0,1039,6,100.0,Transit-Rich
+New York,800 - Pennsylvania,3,102618633,32.0,1039,6,100.0,Transit-Rich
+New York,"900 - Bergen County, NJ",3,102618634,33.0,1039,6,100.0,Transit-Rich
+New York,Eastside Woodbury Common,3,102618635,34.0,1039,6,100.0,Transit-Rich
+New York,Eastside Manhattan Commuter Service,3,102618636,35.0,1039,6,100.0,Transit-Rich
+New York,100 - Princeton - NYC,3,102618639,43.0,1039,6,100.0,Transit-Rich
+New York,200 - Hillsborough,3,102618640,44.0,1039,6,100.0,Transit-Rich
+New York,300 - Plainsboro - NYC,3,102618642,46.0,1039,6,100.0,Transit-Rich
+New York,400 - East Brunswick - Miltown - NYC,3,102618644,48.0,1039,6,100.0,Transit-Rich
+New York,500 - Crosstown,3,102618645,49.0,1039,6,100.0,Transit-Rich
+New York,600 - Wall Street,3,102618646,50.0,1039,6,100.0,Transit-Rich
+New York,Newark Airport Express,3,102618649,53.0,1039,6,100.0,Transit-Rich
+New York,Journal Square - 33rd Street via Hoboken,1,103025457,999.0,1039,6,100.0,Transit-Rich
+New York,Hoboken - 33rd Street,1,103025458,999.0,1039,6,100.0,Transit-Rich
+New York,Hoboken - World Trade Center,1,103025459,999.0,1039,6,100.0,Transit-Rich
+New York,Newark - World Trade Center,1,103025460,999.0,1039,6,100.0,Transit-Rich
+New York,Journal Square - 33rd Street,1,103025461,999.0,1039,6,100.0,Transit-Rich
+New York,Newark - Harrison,1,103025462,999.0,1039,6,100.0,Transit-Rich
+New York,Journal Square - World Trade Center,1,103025463,999.0,1039,6,100.0,Transit-Rich
+New York,Journal Square - 33rd Street via Hoboken,1,103025464,999.0,1039,6,100.0,Transit-Rich
+New York,NYC Queens - Boston,3,103936423,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - Philadelphia - Washington,3,103936426,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Norfolk,3,103936428,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Salisbury - Norfolk,3,103936429,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Atlanta,3,103936430,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - NYC - Philadelphia,3,103936432,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Allentown - Philadelphia,3,103936435,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Atlantic City,3,103936440,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Springfield - White River JCT,3,103936442,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Montréal,3,103936447,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - NYC - Richmond,3,103936449,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto - Ithaca - NYC,3,103936452,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Washington DC,3,103936460,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Richmond - Virginia Beach,3,103936468,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Pittsburgh - Detroit,3,103936474,999.0,1039,6,100.0,Transit-Rich
+New York,Newark - Boston,3,103936476,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Ithaca,3,103936478,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Montréal,3,103936479,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto - NYC express,3,103936486,999.0,1039,6,100.0,Transit-Rich
+New York,Atlanta - DC - NYC,3,103936488,999.0,1039,6,100.0,Transit-Rich
+New York,Philadelphia - GWB - Albany,3,103936489,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Richmond - Raleigh,3,103936490,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Boston,3,103936491,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Buffalo,3,103936506,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Reading,3,103936510,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Albany - Montreal,3,103936513,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - New York (Express Service),3,103936518,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Philadelphia - Washington,3,103936522,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - Philadelphia: Bus Moves,3,103936528,999.0,1039,6,100.0,Transit-Rich
+New York,Washington - Atlantic City - New York,3,103936531,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Hempstead,3,103936537,999.0,1039,6,100.0,Transit-Rich
+New York,DC-NYC-Ithaca,3,103936550,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Pittsburgh - St. Louis,3,103936554,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Pittsburgh,3,103936557,999.0,1039,6,100.0,Transit-Rich
+New York,NYC Chinatown - Atlanta,3,103936558,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Boston,3,103936561,999.0,1039,6,100.0,Transit-Rich
+New York,New York - DC - Pittsburgh,3,103936563,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Baltimore - Washington,3,103936568,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Hartford - Boston,3,103936573,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Buffalo,3,103936574,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - Fitchburg - New York,3,103936588,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Buffalo - Toronto,3,103936589,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Albany,3,103936602,999.0,1039,6,100.0,Transit-Rich
+New York,Boston - New York (Weekend Service),3,103936603,999.0,1039,6,100.0,Transit-Rich
+New York,Bus Moves: Boston - Fitchburg - New York,3,103936608,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Philadelphia - Washington,3,103936612,999.0,1039,6,100.0,Transit-Rich
+New York,NYC Chinatown - Orlando,3,103936622,999.0,1039,6,100.0,Transit-Rich
+New York,DC - NYC - Providence,3,103936623,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Pittsburgh - Chicago,3,103936624,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Toronto night,3,103936631,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Philadelphia,3,103936634,999.0,1039,6,100.0,Transit-Rich
+New York,Queens/Brooklyn - DC,3,103936641,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Providence,3,103936651,999.0,1039,6,100.0,Transit-Rich
+New York,NYC - Richmond,3,103936655,999.0,1039,6,100.0,Transit-Rich
+New York,NYC Chinatown - Boston,3,103936659,999.0,1039,6,100.0,Transit-Rich
+New York,New York - Syracuse - Buffalo,3,103936662,999.0,1039,6,100.0,Transit-Rich
+New York,Babylon Branch,2,104298141,999.0,1039,6,100.0,Transit-Rich
+New York,Hempstead Branch,2,104298142,999.0,1039,6,100.0,Transit-Rich
+New York,Oyster Bay Branch,2,104298143,999.0,1039,6,100.0,Transit-Rich
+New York,Ronkonkoma Branch,2,104298144,999.0,1039,6,100.0,Transit-Rich
+New York,Montauk Branch,2,104298145,999.0,1039,6,100.0,Transit-Rich
+New York,Long Beach Branch,2,104298146,999.0,1039,6,100.0,Transit-Rich
+New York,Far Rockaway Branch,2,104298147,999.0,1039,6,100.0,Transit-Rich
+New York,West Hempstead Branch,2,104298148,999.0,1039,6,100.0,Transit-Rich
+New York,Port Washington Branch,2,104298149,999.0,1039,6,100.0,Transit-Rich
+New York,Port Jefferson Branch,2,104298150,999.0,1039,6,100.0,Transit-Rich
+New York,City Terminal Zone,2,104298152,999.0,1039,6,100.0,Transit-Rich
+New York,Stops in NYC to drop off only,3,104589605,999.0,1039,6,100.0,Transit-Rich
+New York,Stops in NYC to pick up only,3,104589606,999.0,1039,6,100.0,Transit-Rich
+New York,Stops in NYC to drop off only,3,104589607,999.0,1039,6,100.0,Transit-Rich
+New York,Stops in NYC to pick up only,3,104589608,999.0,1039,6,100.0,Transit-Rich
+New York,Stops in Brooklyn to pick up only,3,104589609,999.0,1039,6,100.0,Transit-Rich
+New York,Chasana Stops in NYC to drop off only,3,104589610,999.0,1039,6,100.0,Transit-Rich
+New York,Late Night Express,3,104560855,999.0,1039,6,100.0,Transit-Rich
+New York,Shoppers Special West,3,104560858,999.0,1039,6,100.0,Transit-Rich
+New York,West Loop,3,104560859,999.0,1039,6,100.0,Transit-Rich
+New York,Montclair-Boonton Line,2,104769781,999.0,1039,6,100.0,Transit-Rich
+New York,Montclair-Boonton Line,2,104769782,999.0,1039,6,100.0,Transit-Rich
+New York,Hudson-Bergen Light Rail,0,104769783,999.0,1039,6,100.0,Transit-Rich
+New York,Main/Bergen County Line,2,104769784,999.0,1039,6,100.0,Transit-Rich
+New York,Port Jervis Line,2,104769785,999.0,1039,6,100.0,Transit-Rich
+New York,Morris & Essex Line,2,104769786,999.0,1039,6,100.0,Transit-Rich
+New York,Gladstone Branch,2,104769787,999.0,1039,6,100.0,Transit-Rich
+New York,Northeast Corridor,2,104769788,999.0,1039,6,100.0,Transit-Rich
+New York,North Jersey Coast Line,2,104769789,999.0,1039,6,100.0,Transit-Rich
+New York,North Jersey Coast Line,2,104769790,999.0,1039,6,100.0,Transit-Rich
+New York,Newark Light Rail,0,104769791,999.0,1039,6,100.0,Transit-Rich
+New York,Pascack Valley Line,2,104769792,999.0,1039,6,100.0,Transit-Rich
+New York,Raritan Valley Line,2,104769794,999.0,1039,6,100.0,Transit-Rich
+New York,New Haven,2,105000035,999.0,1039,6,100.0,Transit-Rich
+New York,New Canaan,2,105000036,999.0,1039,6,100.0,Transit-Rich
+New York,Danbury,2,105000037,999.0,1039,6,100.0,Transit-Rich
+New York,Hudson,2,105000039,999.0,1039,6,100.0,Transit-Rich
+New York,Harlem,2,105000040,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta,3,105137278,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Utica,3,105137279,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta (SUNY Campus),3,105137280,999.0,1039,6,100.0,Transit-Rich
+New York,Utica -> New York (P.A.B.T.),3,105137281,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Phoenicia,3,105137282,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137284,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137286,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137287,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137288,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137289,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137290,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137291,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137292,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137293,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137294,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105137296,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137297,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137298,999.0,1039,6,100.0,Transit-Rich
+New York,Utica -> New York (P.A.B.T.),3,105137299,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137300,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105137301,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137302,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137303,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137304,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137306,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105137307,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Phoenicia,3,105137310,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137311,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta (SUNY Campus),3,105137312,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta (SUNY Campus),3,105137313,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105137314,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105137315,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta (SUNY Campus),3,105137316,999.0,1039,6,100.0,Transit-Rich
+New York,Cardinal,2,105159744,999.0,1039,6,100.0,Transit-Rich
+New York,Pennsylvanian,2,105159750,999.0,1039,6,100.0,Transit-Rich
+New York,Maple Leaf,2,105159751,999.0,1039,6,100.0,Transit-Rich
+New York,Palmetto,2,105159752,999.0,1039,6,100.0,Transit-Rich
+New York,Vermonter,2,105159757,999.0,1039,6,100.0,Transit-Rich
+New York,Adirondack,2,105159758,999.0,1039,6,100.0,Transit-Rich
+New York,Lake Shore Limited,2,105159760,999.0,1039,6,100.0,Transit-Rich
+New York,Carolinian,2,105159761,999.0,1039,6,100.0,Transit-Rich
+New York,Keystone Service,2,105159762,999.0,1039,6,100.0,Transit-Rich
+New York,Empire Service,2,105159765,999.0,1039,6,100.0,Transit-Rich
+New York,Acela,2,105159770,999.0,1039,6,100.0,Transit-Rich
+New York,Silver Meteor,2,105159773,999.0,1039,6,100.0,Transit-Rich
+New York,Ethan Allen Express,2,105159776,999.0,1039,6,100.0,Transit-Rich
+New York,Crescent,2,105159785,999.0,1039,6,100.0,Transit-Rich
+New York,Northeast Regional,2,105159786,999.0,1039,6,100.0,Transit-Rich
+New York,Bronx to Dobbs Ferry,3,105354295,999.0,1039,6,100.0,Transit-Rich
+New York,Bronx to Dobbs Ferry,3,105354296,999.0,1039,6,100.0,Transit-Rich
+New York,Westchester Square,3,105354301,999.0,1039,6,100.0,Transit-Rich
+New York,Astoria,4,105320674,999.0,1039,6,100.0,Transit-Rich
+New York,East River,4,105320675,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway East,3,105320676,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway-Soundview,4,105320677,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway,4,105320678,999.0,1039,6,100.0,Transit-Rich
+New York,Rockaway West,3,105320679,999.0,1039,6,100.0,Transit-Rich
+New York,South Brooklyn,4,105320680,999.0,1039,6,100.0,Transit-Rich
+New York,St. George,4,105320681,999.0,1039,6,100.0,Transit-Rich
+New York,Soundview,4,105320682,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta,3,105366615,999.0,1039,6,100.0,Transit-Rich
+New York,Oneonta -> New York (P.A.B.T.),3,105366616,999.0,1039,6,100.0,Transit-Rich
+New York,Montreal -> New York (Hudson Trailways),3,105366617,999.0,1039,6,100.0,Transit-Rich
+New York,Montreal -> New York (P.A.B.T.),3,105366618,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (Airport - ALB) -> Queens Village,3,105366619,999.0,1039,6,100.0,Transit-Rich
+New York,Queens Village -> Albany (Trailways Bus Terminal),3,105366620,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Montreal,3,105366623,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366624,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366625,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Albany (Trailways Bus Terminal),3,105366626,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (Trailways Bus Terminal) -> New York (P.A.B.T.),3,105366627,999.0,1039,6,100.0,Transit-Rich
+New York,Albany - Rensselaer (Amtrak) -> New York (P.A.B.T.),3,105366628,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366629,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366630,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Montreal,3,105366631,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366632,999.0,1039,6,100.0,Transit-Rich
+New York,Melville -> Albany (SUNY),3,105366633,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366634,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366635,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366636,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366637,999.0,1039,6,100.0,Transit-Rich
+New York,Ithaca (Cornell) -> New York (P.A.B.T.),3,105366638,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> Melville,3,105366639,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> Queens Village,3,105366640,999.0,1039,6,100.0,Transit-Rich
+New York,Queens Village -> Albany (SUNY),3,105366641,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Cobleskill (SUNY),3,105366642,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366643,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366644,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366645,999.0,1039,6,100.0,Transit-Rich
+New York,Oneonta (SUNY Campus) -> New York (P.A.B.T.),3,105366646,999.0,1039,6,100.0,Transit-Rich
+New York,Albany - Rensselaer (Amtrak) -> New York (P.A.B.T.),3,105366647,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366648,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366649,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366650,999.0,1039,6,100.0,Transit-Rich
+New York,Syracuse -> New York (P.A.B.T.),3,105366651,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366652,999.0,1039,6,100.0,Transit-Rich
+New York,Binghamton -> New York (P.A.B.T.),3,105366656,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Binghamton,3,105366657,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Ithaca (Cornell),3,105366660,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366661,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Saratoga Springs,3,105366662,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Albany (SUNY),3,105366663,999.0,1039,6,100.0,Transit-Rich
+New York,Queens Village -> Albany (Trailways Bus Terminal),3,105366664,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (Airport - ALB) -> Queens Village,3,105366665,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta,3,105366668,999.0,1039,6,100.0,Transit-Rich
+New York,Oneonta -> New York (P.A.B.T.),3,105366669,999.0,1039,6,100.0,Transit-Rich
+New York,Oneonta (SUNY Campus) -> New York (P.A.B.T.),3,105366670,999.0,1039,6,100.0,Transit-Rich
+New York,Albany - Rensselaer (Amtrak) -> New York (P.A.B.T.),3,105366673,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366674,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366675,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366676,999.0,1039,6,100.0,Transit-Rich
+New York,Albany - Rensselaer (Amtrak) -> New York (P.A.B.T.),3,105366679,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (SUNY) -> New York (P.A.B.T.),3,105366680,999.0,1039,6,100.0,Transit-Rich
+New York,Albany (Trailways Bus Terminal) -> New York (P.A.B.T.),3,105366681,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (Trailways Bus Terminal),3,105366682,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Albany (Trailways Bus Terminal),3,105366683,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Albany (SUNY),3,105366684,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Utica,3,105366685,999.0,1039,6,100.0,Transit-Rich
+New York,Binghamton -> New York (P.A.B.T.),3,105366686,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Binghamton,3,105366687,999.0,1039,6,100.0,Transit-Rich
+New York,Syracuse -> New York (P.A.B.T.),3,105366688,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366689,999.0,1039,6,100.0,Transit-Rich
+New York,New York (Hudson Trailways) -> Montreal,3,105366690,999.0,1039,6,100.0,Transit-Rich
+New York,Montreal -> New York (Hudson Trailways),3,105366691,999.0,1039,6,100.0,Transit-Rich
+New York,Montreal -> New York (P.A.B.T.),3,105366692,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Montreal,3,105366693,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Albany (SUNY),3,105366694,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366695,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366696,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366697,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366698,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366699,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366700,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105366701,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366702,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366703,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366704,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Phoenicia,3,105366706,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta,3,105366707,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Oneonta (SUNY Campus),3,105366708,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Utica,3,105366709,999.0,1039,6,100.0,Transit-Rich
+New York,Utica -> New York (P.A.B.T.),3,105366711,999.0,1039,6,100.0,Transit-Rich
+New York,Utica -> New York (P.A.B.T.),3,105366712,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Phoenicia,3,105366713,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366716,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366717,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366718,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105366719,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (Hudson Trailways),3,105366720,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Kingston,3,105366721,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366722,999.0,1039,6,100.0,Transit-Rich
+New York,Kingston -> New York (P.A.B.T.),3,105366723,999.0,1039,6,100.0,Transit-Rich
+New York,Buffalo (Downtown Bus Terminal) -> New York (P.A.B.T.),3,105366728,999.0,1039,6,100.0,Transit-Rich
+New York,Rochester -> New York (P.A.B.T.),3,105366729,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366730,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Toronto,3,105366731,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Buffalo (Downtown Bus Terminal),3,105366732,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Toronto,3,105366733,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto -> New York (P.A.B.T.),3,105366734,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto -> New York (P.A.B.T.),3,105366735,999.0,1039,6,100.0,Transit-Rich
+New York,Buffalo (Downtown Bus Terminal) -> New York (P.A.B.T.),3,105366838,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto -> New York (P.A.B.T.),3,105366839,999.0,1039,6,100.0,Transit-Rich
+New York,Toronto -> New York (P.A.B.T.),3,105366840,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Toronto,3,105366841,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Buffalo (Downtown Bus Terminal),3,105366843,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366844,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Toronto,3,105366845,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Potsdam (SUNY),3,105366846,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Rochester,3,105366847,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366848,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366849,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366850,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Syracuse,3,105366851,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Rochester,3,105366852,999.0,1039,6,100.0,Transit-Rich
+New York,Rochester -> New York (P.A.B.T.),3,105366853,999.0,1039,6,100.0,Transit-Rich
+New York,New York (P.A.B.T.) -> Rochester,3,105366855,999.0,1039,6,100.0,Transit-Rich
+Chicago,South Shore Line,2,83065739,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pulse Milwaukee Line,3,95430031,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pulse Dempster Line,3,95430032,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Busse Highway,3,95430034,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lincoln Avenue,3,95430035,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Green Bay Road,3,95430036,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Crawford-Howard,3,95430037,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Wolf Road,3,95430038,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Elk Grove - Rosemont CTA Station,3,95430039,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Central - Howard,3,95430040,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Oakton Street,3,95430041,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Des Plaines,3,95430042,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Dee Road,3,95430044,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Greenwood - Talcott,3,95430045,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Dempster Street,3,95430046,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Milwaukee Avenue,3,95430047,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Touhy Avenue,3,95430049,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Roosevelt Road,3,95430050,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Ogden - Stanley,3,95430051,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Forest Park - Rosemont,3,95430052,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,East Roosevelt,3,95430053,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Harlem,3,95430054,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Medical Center,3,95430055,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lake Street,3,95430056,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West Madison - Hillside,3,95430057,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Oak Park Avenue,3,95430058,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,St. Charles Rd.,3,95430059,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Ridgeland Avenue,3,95430060,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Austin Boulevard,3,95430061,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Laramie Avenue,3,95430062,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Westchester,3,95430063,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West North Avenue,3,95430064,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Grand Avenue,3,95430065,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cermak Road - 22nd St.,3,95430066,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Mannheim - LaGrange Roads,3,95430067,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cumberland - 5th Avenue,3,95430068,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,River Road - York Road,3,95430069,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Harvey - Riverdale - Blue Island,3,95430070,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Western,3,95430071,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Halsted,3,95430073,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,95th/Dan Ryan CTA-Calumet City-Homewood Limited,3,95430074,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Torrence,3,95430078,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Robbins - South Kedzie Avenue,3,95430079,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,159th Street,3,95430082,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Midway - Orland Park,3,95430085,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,95th Street,3,95430086,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Cicero,3,95430087,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Narragansett - Ridgeland,3,95430088,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,87th / 111th / 127th,3,95430089,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Harlem,3,95430090,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Midway CTA - UPS Hodgkins Limited,3,95430091,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Green Line Cicero CTA - UPS Hodgkins Limited,3,95430092,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,95th/Dan Ryan CTA - UPS Hodgkins Limited,3,95430093,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Linden CTA - The Glen - Harlem L CTA,3,95430096,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Rosemont - Schaumburg Express,3,95430135,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Elgin Terminal - Rosemont Express,3,95430136,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,I-90/Randall Rd. Station - Rosemont Express,3,95430138,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Rosemont - Schaumburg Limited,3,95430139,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Plainfield – IMD – West Loop Express,3,95430147,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Rosemont Entertainment Circulator,3,95430154,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North Bolingbrook – East Loop Express,3,95430157,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Bolingbrook – East Loop Express,3,95430158,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Plainfield-East Loop Express,3,95430159,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago Heights - UPS Hodgkins Limited,3,95430160,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago Water Taxi,4,101823658,3.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago Airport Shuttle,3,102618650,54.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Airport Express,3,102618651,58.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Green Bay - Chicago - Detroit,3,103936433,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Milwaukee - Chicago - Columbus,3,103936446,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Davenport - Des Moines,3,103936457,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Indianapolis,3,103936461,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Atlanta - Chicago,3,103936467,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Madison - Chicago - Cincinnati,3,103936481,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Milwaukee - Minneapolis,3,103936504,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Iowa City - Cedar Rapids - Waterloo - Des Moines,3,103936530,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Kalamazoo - Detroit,3,103936536,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Grand Rapids - Detroit,3,103936539,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - St Louis - Atlanta,3,103936546,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,"Chicago - Indianapolis - Bloomington,IN",3,103936553,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Memphis,3,103936555,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Milwaukee - Minneapolis,3,103936571,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Cleveland - Washington,3,103936579,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Des Moines - Denver,3,103936601,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Cincinnati - Lexington,3,103936604,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,NYC - Pittsburgh - Chicago,3,103936624,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Bloomington - Danville,3,103936646,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - St Louis - Memphis,3,103936652,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago - Louisville - Atlanta,3,103936664,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Burlington Northern,2,104620876,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Heritage Corridor,2,104620877,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Milwaukee North,2,104620878,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Milwaukee West,2,104620879,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Metra Electric,2,104620880,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North Central Service,2,104620881,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Rock Island,2,104620882,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Southwest Service,2,104620883,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Union Pacific North,2,104620884,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Union Pacific Northwest,2,104620885,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Union Pacific West,2,104620886,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,ChicaGO Dash,3,104735372,4.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Bronzeville/Union Station,3,104781247,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Hyde Park Express,3,104781248,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,King Drive,3,104781249,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cottage Grove,3,104781250,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cottage Grove Express,3,104781251,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Shore Night Bus,3,104781252,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Jackson Park Express,3,104781253,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Harrison,3,104781254,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Halsted,3,104781255,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Halsted,3,104781256,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Ashland,3,104781257,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Ashland Express,3,104781258,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lincoln,3,104781259,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Roosevelt,3,104781260,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Jeffery Jump,3,104781261,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Jeffery Local,3,104781262,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,16th/18th,3,104781263,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Madison,3,104781264,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cermak,3,104781265,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Clark,3,104781266,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Wentworth,3,104781267,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Shore Express,3,104781268,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Stony Island,3,104781269,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,State,3,104781270,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,31st,3,104781271,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Chicago,3,104781272,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Michigan,3,104781273,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,31st/35th,3,104781274,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Broadway,3,104781275,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Sedgwick,3,104781276,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pershing,3,104781277,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,43rd,3,104781278,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Wallace/Racine,3,104781279,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,47th,3,104781280,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Damen,3,104781281,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Western,3,104781282,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North Western,3,104781283,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Western Express,3,104781284,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Damen,3,104781285,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,51st,3,104781286,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Kedzie,3,104781287,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Kedzie,3,104781288,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pulaski,3,104781289,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Pulaski,3,104781290,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cicero,3,104781291,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North Cicero/Skokie Blvd.,3,104781292,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Cicero,3,104781293,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Garfield,3,104781294,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,55th/Austin,3,104781295,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,55th/Narragansett,3,104781296,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Milwaukee,3,104781297,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Laramie,3,104781298,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,59th/61st,3,104781299,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Blue Island/26th,3,104781300,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Archer,3,104781301,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Archer/Harlem,3,104781302,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,63rd,3,104781303,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West 63rd,3,104781304,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Grand,3,104781305,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Chicago,3,104781306,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,67th/69th/71st,3,104781307,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Northwest Highway,3,104781308,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Division,3,104781309,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,71st/South Shore,3,104781310,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North,3,104781311,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Armitage,3,104781312,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Fullerton,3,104781313,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,74th/75th,3,104781314,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Diversey,3,104781315,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Belmont,3,104781316,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Montrose,3,104781317,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,79th,3,104781318,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Irving Park,3,104781319,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lawrence,3,104781320,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West Lawrence,3,104781321,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Kimball/Homan,3,104781322,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Peterson,3,104781323,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,95th,3,104781324,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Central,3,104781325,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North Central,3,104781326,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Narragansett/Ridgeland,3,104781327,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,87th,3,104781328,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Higgins,3,104781329,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Harlem,3,104781330,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Austin,3,104781331,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Foster,3,104781332,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,California/Dodge,3,104781333,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,California,3,104781334,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lunt,3,104781335,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Skokie,3,104781336,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Jeffery Manor Express,3,104781337,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West 103rd,3,104781338,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,East 103rd,3,104781339,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Halsted/95th,3,104781340,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,111th/King Drive,3,104781341,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pullman Shuttle,3,104781342,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Vincennes/111th,3,104781343,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pullman/115th,3,104781344,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Michigan/119th,3,104781345,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Ogilvie/Streeterville Express,3,104781346,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Union/Streeterville Express,3,104781347,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Navy Pier,3,104781348,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Water Tower Express,3,104781349,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Jackson,3,104781350,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Stockton/LaSalle Express,3,104781351,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Clarendon/LaSalle Express,3,104781352,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Sheridan/LaSalle Express,3,104781353,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Stockton/Michigan Express,3,104781354,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Inner Lake Shore/Michigan Express,3,104781355,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Outer DuSable Lake Shore Express,3,104781356,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Clarendon/Michigan Express,3,104781357,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Sheridan,3,104781358,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Addison,3,104781359,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Devon,3,104781360,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,LaSalle,3,104781361,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Streeterville/Taylor,3,104781362,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,West 65th,3,104781363,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,69th/UPS Express,3,104781364,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,U. of Chicago/Hyde Park,3,104781365,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,U. of Chicago/Kenwood,3,104781366,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,University of Chicago Hospitals Express,3,104781367,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Central/Ridge,3,104781368,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Evanston Circulator,3,104781369,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Red Line,1,104781370,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Purple Line,1,104781371,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Yellow Line,1,104781372,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Blue Line,1,104781373,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pink Line,1,104781374,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Green Line,1,104781375,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Orange Line,1,104781376,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Brown Line,1,104781377,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Floridian,2,105159726,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Hiawatha Service,2,105159739,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Wolverine,2,105159740,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Saluki,2,105159741,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Cardinal,2,105159744,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Pere Marquette,2,105159746,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Illini,2,105159747,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Carl Sandburg,2,105159753,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Texas Eagle,2,105159756,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,California Zephyr,2,105159759,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lake Shore Limited,2,105159760,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Borealis,2,105159763,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Southwest Chief,2,105159764,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Empire Builder,2,105159766,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,City of New Orleans,2,105159772,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lincoln Service,2,105159775,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Illinois Zephyr,2,105159780,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Lincoln Service Missouri River Runner,2,105159783,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Blue Water,2,105159784,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,53rd Street Express,3,105348600,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Apostolic,3,105348601,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Apostolic/Drexel,3,105348602,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Central,3,105348603,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Downtown Campus Connector,3,105348604,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Drexel,3,105348605,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,East,3,105348606,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Friend Center/Metra,3,105348607,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Midway Metra,3,105348608,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,North,3,105348609,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Red Line/Arts Block,3,105348610,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,Regents Express,3,105348611,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South,3,105348612,999.0,264,4,50.172407110714715,Transit-Limited
+Chicago,South Loop Shuttle,3,105348613,999.0,264,4,50.172407110714715,Transit-Limited
+San Francisco,Presidio GO Downtown,3,100255987,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Presidio GO South Hills,3,100255988,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Tijuana - Los Angeles - Bay Area,3,103936418,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Francisco - Los Angeles - San Diego,3,103936454,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SF - SLO - Santa Barbara - LA,3,103936544,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Los Angeles - San Francisco,3,103936569,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Jose - San Francisco - Sacramento - Reno,3,103936616,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Oakland - SF - San Jose - LA,3,103936637,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Treasure Island – Yerba Buena Island,4,105152391,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Presidio GO South Hills,3,105152392,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Presidio GO Downtown,3,105152393,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Golden Gate Park Shuttle,3,105152398,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City Bayshore,3,105152399,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City Seton,3,105152402,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Brisbane Crocker Park,3,105152419,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Brisbane-Bayshore Caltrain,3,105152421,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,3,105152422,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Transbay-Caltrain,3,105152423,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,3,105152424,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,3,105152425,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Colusa - Solano Transbay,3,105152489,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Pablo - Pierce Transbay,3,105152490,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Sacramento -  Christie Transbay,3,105152491,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Piedmont - Oakland Ave. Transbay,3,105152500,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Adeline - Market Transbay,3,105152502,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Rich - Oak Transbay All Nighter,3,105152504,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Grand Lake - Laurel  Transbay,3,105152507,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Bay Farm - South Shore Transbay,3,105152508,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Santa Clara - Encinal Transbay,3,105152511,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Montclair - Park Blvd. Transbay,3,105152514,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MacArthur Transbay Limited,3,105152516,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Shattuck - University Transbay,3,105152520,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Pittsburg/BP Transbay Early Bird,3,105152536,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Tunnel Rd. - Claremont Transbay,3,105152539,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MacArthur - Eastmont Transbay,3,105152541,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Pleas Hill Transbay Early Bird,3,105152545,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Dubl/Plsntn Transbay Early Bird,3,105152546,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Triangle Ferry,4,105152568,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Angel Island - San Francisco Ferry,4,105152569,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Larkspur - San Francisco Ferry,4,105152570,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Sausalito - San Francisco Ferry,4,105152571,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Tiburon - San Francisco Ferry,4,105152572,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Shuttle_SF,3,105152575,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Petaluma - San Francisco,3,105152578,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Santa Rosa - San Francisco,3,105152580,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Santa Rosa - San Francisco Express,3,105152582,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Del Norte BART Station - San Francisco,3,105152583,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Santa Rosa - San Francisco,3,105152584,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Anselmo - San Francisco,3,105152585,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Novato - San Francisco,3,105152586,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Mill Valley - San Francisco,3,105152587,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Rafael - San Francisco,3,105152588,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Rafael - San Francisco,3,105152589,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MARINA EXPRESS,3,105152607,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,TARAVAL,0,105152608,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MARKET & WHARVES BUS,0,105152609,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,POLK,3,105152610,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,CALIFORNIA EXPRESS,3,105152611,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BART EARLY BIRD,3,105152612,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MONTEREY,3,105152613,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,DIVISADERO,3,105152614,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SAN BRUNO OWL,3,105152615,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,TREASURE ISLAND,3,105152616,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BRYANT,3,105152617,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,19TH AVENUE,3,105152618,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SUNSET,3,105152619,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MISSION RAPID,3,105152620,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,46TH AVENUE,3,105152621,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,FOLSOM-PACIFIC,3,105152622,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MISSION,3,105152623,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SUTTER,3,105152624,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,FILLMORE,3,105152625,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,ASHBURY-18TH ST,3,105152626,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,TERESITA,3,105152627,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,GEARY RAPID,3,105152628,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,UNION-STOCKTON,3,105152629,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,QUINTARA-24TH STREET,3,105152630,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,VAN NESS-MISSION,3,105152631,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,COIT,3,105152632,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,FULTON,3,105152633,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MASONIC,3,105152634,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,STOCKTON,3,105152635,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,LAKE MERCED,3,105152636,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BALBOA,3,105152637,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,EUREKA,3,105152638,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,CORBETT,3,105152639,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,GEARY,3,105152640,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,O'SHAUGHNESSY,3,105152641,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,FULTON RAPID,3,105152642,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,HAYES-PARNASSUS,3,105152643,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,CALIFORNIA,3,105152644,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,FELTON,3,105152645,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,DOGPATCH,3,105152646,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,RUTLAND,3,105152647,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,PARKMERCED,3,105152648,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BAYSHORE,3,105152649,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BAYVIEW HUNTERS POINT EXPRESS,3,105152650,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,QUINTARA,3,105152651,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,3RD-19TH AVE OWL,3,105152652,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BAYSHORE A EXPRESS,3,105152653,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,INGLESIDE BUS,3,105152654,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SAN BRUNO RAPID,3,105152655,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,JUDAH,0,105152656,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,MARKET & WHARVES,0,105152657,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,CHURCH,0,105152658,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,JUDAH BUS,3,105152659,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,INGLESIDE,0,105152660,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,OWL TARAVAL,3,105152661,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BAYSHORE B EXPRESS,3,105152662,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,OCEAN VIEW,0,105152663,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,BERNAL HEIGHTS,3,105152664,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,CALIFORNIA STREET CABLE CAR,5,105152665,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,HAIGHT-NORIEGA,3,105152666,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,EXCELSIOR,3,105152667,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SAN BRUNO,3,105152668,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,OWL JUDAH,3,105152669,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,POWELL-HYDE CABLE CAR,5,105152670,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,POWELL-MASON CABLE CAR,5,105152671,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,THIRD,0,105152672,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,THIRD BUS,3,105152673,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,19TH AVENUE RAPID,3,105152674,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Francisco Pier 41 Short Hop,4,105152675,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Harbor Bay,4,105152677,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Oakland & Alameda,4,105152678,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Richmond,4,105152680,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Alameda Seaplane,4,105152681,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Vallejo,4,105152682,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,East Palo Alto - San Bruno BART and San Francisco,3,105152775,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Lipman School - Templeton/Brunswick,3,105152776,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Linda Mar Park & Ride - Daly City BART,3,105152777,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Skyline College,3,105152779,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Terra Nova HS,3,105152781,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Los Olivos/Santa Barbara - Ben Franklin School,3,105152792,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Airport & Linden/Oyster Point,3,105152801,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Pope/Bellevue - Skyline College,3,105152813,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Colma BART - Brunswick/Templeton,3,105152816,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,South SF BART - Stonestown/SF State,3,105152817,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City - SFO,3,105152821,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Foster City - San Francisco,3,105152822,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Brisbane - Shasta High,3,105152823,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Thomas R Pollicita Middle School,3,105152826,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Linda Mar Park & Ride,3,105152837,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SF Transit Center - San Francisco International,3,105152838,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City BART - Palo Alto Transit Ctr,3,105152841,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Francisco - SFO - Hillsdale Mall,3,105152844,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,San Francisco - Palo Alto Transit Ctr,3,105152848,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,2,105152902,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,2,105152904,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,2,105152905,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Unknown,2,105152906,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,SF Express,3,105152920,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Rodeo/Hercules/San Francisco Transbay Terminal,3,105152989,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Berryessa/North San Jose to Daly City,1,105153015,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Millbrae/SF Int'l Airport SFO to Richmond,1,105153016,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Dublin/Pleasanton to Daly City,1,105153017,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Antioch to SF Int'l Airport SFO/Millbrae,1,105153022,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Millbrae/SF Int'l SFO to Antioch,1,105153023,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Richmond to SF Int'l Airport SFO/Millbrae,1,105153024,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City to Dublin/Pleasanton,1,105153025,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Daly City to Berryessa/North San Jose,1,105153026,999.0,161,6,54.95919153031761,Transit-Rich
+San Francisco,Amtrak Thruway Connecting Service,3,105159779,999.0,161,6,54.95919153031761,Transit-Rich
