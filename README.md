@@ -15,7 +15,7 @@ and San Francisco to classify cities as "Transit-Rich" or "Transit-Limited" usin
 ## Structure
 - `notebooks/` - Jupyter notebooks with complete analysis (run in order 01 → 02 → 03)
 - `data/` - Processed transit dataset (1,855 routes)
-- `reports/` - Analysis as a collaboratively written report
+- `reports/` - See our [Project Report](reports/transit-paper)!
 
 ## Setup
 ```bash
